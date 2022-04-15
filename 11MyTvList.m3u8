@@ -37,8 +37,17 @@ https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="" group-title="News",Al 
-Jazeera Mubasher
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_2.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Khalijia HD
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
