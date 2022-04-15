@@ -51,3 +51,19 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Khalijia HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alrai_tv.png" tvg-country="SA" tvg-url="" group-title="Kuwait",AlRai
+https://media.streambrothers.com:1936/8724/8724/chunklist_w949276883.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-1-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Kuwait1
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1650058859&e=1650145259&cf=1650145259&h=c352863835a66efc080b2aeb52f03db9
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-ethraa-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Q8Ethraa
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_480p/chunks.m3u8?p=52&s=1650059229&e=1650145629&cf=1650145629&h=1d360d3ca3afc5e9c1b22c8a1543ed6e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alsumaria-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Sumria
+https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1650081234~dirs=1~hash=0cd8b329d8980b9104a35/sumariamob.smil/live_480p_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al-iraqiya-news-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Iraq news
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Iraq 3Ama
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al-rabiaa-tv-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Iraq Four
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1650071008~dirs=1~hash=00f92db30f099ca2fee3a/alrabiaatv.smil/alrabiaatv_480p_chunks.m3u8
+#EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sama-tv-sy.png" tvg-country="AE" tvg-url="" group-title="Syria",Sama
+http://stream5.sama-tv.net/hls/stream_high/index.m3u8
