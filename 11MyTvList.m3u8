@@ -67,3 +67,5 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/ch
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1650071008~dirs=1~hash=00f92db30f099ca2fee3a/alrabiaatv.smil/alrabiaatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sama-tv-sy.png" tvg-country="AE" tvg-url="" group-title="Syria",Sama
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" tvg-country="IQ" tvg-url="" group-title="News",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
