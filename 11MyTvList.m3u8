@@ -75,5 +75,15 @@ https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1650071008~dirs=1~has
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" tvg-country="IQ" tvg-url="" group-title="News",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sa-al-ekhbariya-tv-7917-316x237.jpg" tvg-country="IQ" tvg-url="" group-title="News",Saudia
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBCDramaStream/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al_resalah.png" tvg-country="IQ" tvg-url="" group-title="Islam",Resalh
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8?p=50&s=1650114703&e=1650201103&cf=1650201103&h=5a674b4da09d0c4506b38090b896e371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/makkah-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="Islam",Mecca
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w914435776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sbc-sa.png" tvg-country="IQ" tvg-url="" group-title="Islam",SBC
+https://cllive.itworkscdn.net/sbclive/token=nva=1650130551~dirs=1~hash=07f25ed52a03e328b6cd9/sbc.smil/sbc_480p_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="Islam",Quran
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650130653~dirs=1~hash=0c8f1160e85bf0f5f5eb5/ksaquran.smil/ksaquran_source_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://alghadeertv.net/wp-content/uploads/2021/01/Banner-v3.jpg" tvg-country="IQ" tvg-url="" group-title="Islam",Alghadeer
+https://asdiuhiu12.myvodu.app:3356/live/Alghadeer/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ll/lbc-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="ARABIC",LBC
+https://dai.google.com/linear/hls/pb/event/_KNLEUGwTJClZGHiPgN9hA/stream/0ff3f48e-eaa1-4a02-8f73-31047c151746:SIN/variant/da5d76f8853835ed705a0b9a2311794c/bandwidth/1239336.m3u8
