@@ -37,6 +37,8 @@ https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zagros-tv-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1039993290_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
 http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
@@ -125,8 +127,12 @@ https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/chunklist_w360315447_b446000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Quran
 https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650258611~dirs=1~hash=0ec5b88786a04f1d8a184/ksaquran.smil/ksaquran_source_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bawadi.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Bawadi
+http://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_wilayah_tv.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Wilayah
 https://nl.livekadeh.com/hls2/alwilayah.tv_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thaqalayn-tv-tr.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Thaqalyan
+https://live.thaqalayn.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mamlaka-tv-jo.png" tvg-country="IQ" tvg-url="" group-title="JORDAN",Mamlika
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Sabah
@@ -143,3 +149,19 @@ http://11121314.fr:8000/00/965341695888844/410242
 http://11121314.fr:8000/00/965341695888844/410266
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" tvg-country="SA" tvg-url="" group-title="OSN",ART2
 http://11121314.fr:8000/00/965341695888844/410267
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image?c=12492&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak1
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image?c=12492&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak2
+https://weyyak-live.akamaized.net/weyyak_nawaem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image?c=12492&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak3
+https://weyyak-live.akamaized.net/weyyak_mix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image?c=12492&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak4
+https://weyyak-live.akamaized.net/weyyak_action/tracks-v6a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image?c=12492&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak5
+https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/8ff99681-4dd8-4e97-aa18-de4a866ef0fd/poster-image?c=42192&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak6
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/thikrayat_tv.jpg" tvg-country="SA" tvg-url="" group-title="OSN",Zekrayat
+https://cllive.itworkscdn.net/zikrayatlive/token=nva=1650270582~dirs=1~hash=054b7ccd919343c82fd21/zikrayat.smil/zikrayat_source_chunks.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-arabi-tr.png" tvg-country="SA" tvg-url="" group-title="News",TRTar
+https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
