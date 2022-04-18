@@ -49,20 +49,20 @@ http://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png?v=3" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
 #EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_2.m3u8
-#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/classic.png?v=3" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
-#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/khalijiat.png?v=3" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Cinema HD
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
-#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Khalijia HD
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Khalijia HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alrai_tv.png" tvg-country="SA" tvg-url="" group-title="Kuwait",AlRai
 https://media.streambrothers.com:1936/8724/8724/chunklist_w949276883.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-1-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Kuwait1
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1650058859&e=1650145259&cf=1650145259&h=c352863835a66efc080b2aeb52f03db9
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1650260994&e=1650347394&cf=1650347394&h=eab092596a2f017958d10f4ae1175ad2
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-ethraa-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Q8Ethraa
 https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_480p/chunks.m3u8?p=52&s=1650059229&e=1650145629&cf=1650145629&h=1d360d3ca3afc5e9c1b22c8a1543ed6e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alsumaria-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Sumria
@@ -83,6 +83,8 @@ https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w914435776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sbc-sa.png" tvg-country="IQ" tvg-url="" group-title="Islam",SBC
 https://cllive.itworkscdn.net/sbclive/token=nva=1650272502~dirs=1~hash=07968d075ebfdc9524a10/sbc.smil/sbc_source_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/nn/noor-dubai-ae.png" tvg-country="IQ" tvg-url="" group-title="Islam",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Quran
 https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650130653~dirs=1~hash=0c8f1160e85bf0f5f5eb5/ksaquran.smil/ksaquran_source_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alittihad.tv/live/assets/images/logo_new.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Etihad
@@ -95,6 +97,8 @@ https://dai.google.com/linear/hls/pb/event/_KNLEUGwTJClZGHiPgN9hA/stream/0ff3f48
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al_aan_tv.png" tvg-country="IQ" tvg-url="" group-title="UAE",Alaan
 https://stream-01.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xrXhSOKAYsb8E1kWX2tBjr6zMbHOYty4m-5qvXrhM-UJ)/dm/3/x74wje5/s/live-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/majid_tv_ae.png" tvg-country="IQ" tvg-url="" group-title="UAE",Majid
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/qa-bein-sports-hd-8483-316x237.jpg" tvg-country="IQ" tvg-url="" group-title="SPORT",Bein1
 http://11121314.fr:8000/00/965341695888844/393741
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/qa-bein-sports-hd-8483-316x237.jpg" tvg-country="IQ" tvg-url="" group-title="SPORT",Bein2
