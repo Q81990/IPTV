@@ -82,7 +82,7 @@ https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/makkah-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="Islam",Mecca
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w914435776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sbc-sa.png" tvg-country="IQ" tvg-url="" group-title="Islam",SBC
-https://cllive.itworkscdn.net/sbclive/token=nva=1650130551~dirs=1~hash=07f25ed52a03e328b6cd9/sbc.smil/sbc_480p_chunks.m3u8
+https://cllive.itworkscdn.net/sbclive/token=nva=1650272502~dirs=1~hash=07968d075ebfdc9524a10/sbc.smil/sbc_source_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Quran
 https://cllive.itworkscdn.net/ksaquranlive/token=nva=1650130653~dirs=1~hash=0c8f1160e85bf0f5f5eb5/ksaquran.smil/ksaquran_source_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alittihad.tv/live/assets/images/logo_new.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Etihad
@@ -103,12 +103,16 @@ http://11121314.fr:8000/00/965341695888844/393744
 http://11121314.fr:8000/00/965341695888844/330708
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/abu-dhabi-tv-4381-450x337.jpg" tvg-country="IQ" tvg-url="" group-title="UAE",AbuDhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sama-dubai-ae.png" tvg-country="IQ" tvg-url="" group-title="UAE",SamaDubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abudhabi_alemarat.jpg" tvg-country="IQ" tvg-url="" group-title="UAE",Emarat
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_wousta_tv_ae.png" tvg-country="IQ" tvg-url="" group-title="UAE",Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Ahl Quran
 https://ahlualquran.tv/live/ysfbfBvecZ/SaNVjgaYnE/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/tt/taha_tv.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Taha
+https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://w7.pngwing.com/pngs/986/318/png-transparent-iran-al-alam-news-network-television-channel-press-tv-browning-buckmark-tattoos-television-text-trademark-thumbnail.png" tvg-country="IQ" tvg-url="" group-
 
 title="News",Alam
@@ -119,6 +123,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarab
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-alhurra-tv-8084-316x237.jpg" tvg-country="IQ" tvg-url="" group-title="News",AlHuraa
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt-news-ru.svg" tvg-country="IQ" tvg-url="" group-title="News",RT
+https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-alhurra-tv-8084-316x237.jpg" tvg-country="IQ" tvg-url="" group-title="News",AlHuraa-Irq
 http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_khalij_tv_uk.png" tvg-country="IQ" tvg-url="" group-title="News",Khaleej
@@ -165,3 +171,5 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 https://cllive.itworkscdn.net/zikrayatlive/token=nva=1650270582~dirs=1~hash=054b7ccd919343c82fd21/zikrayat.smil/zikrayat_source_chunks.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-arabi-tr.png" tvg-country="SA" tvg-url="" group-title="News",TRTar
 https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.png" tvg-country="SA" tvg-url="" group-title="Syria",Orient
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
