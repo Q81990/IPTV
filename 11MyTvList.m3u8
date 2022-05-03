@@ -13,6 +13,14 @@ https://www.youtube.com/watch?v=i4A1L4xW6Ns
 https://www.youtube.com/watch?v=f-Zhea0apIs
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",France_AR
 https://www.youtube.com/watch?v=8BZpOolYLUA
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC",Syriaedu
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC",Syria Drama
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC",Syria
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ISLAM",Noor Sham
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",ALShaqyeay
 http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",ALSharaq
