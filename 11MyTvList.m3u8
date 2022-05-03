@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=DvxXHtfIwkE
 https://www.youtube.com/watch?v=5myqjgHbGhk
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Mecca
 https://www.youtube.com/watch?v=LIDkArI0kek
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Karbala
+https://www.youtube.com/watch?v=ppA6WTawAQw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="ISLAM",Bahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H8SaZXN.png" tvg-country="PS" tvg-url="" group-title="ARABIC",Alfajer Tv HD 2
