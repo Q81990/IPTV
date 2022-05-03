@@ -13,10 +13,14 @@ https://www.youtube.com/watch?v=i4A1L4xW6Ns
 https://www.youtube.com/watch?v=f-Zhea0apIs
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="NEWS",France_AR
 https://www.youtube.com/watch?v=8BZpOolYLUA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="NEWS",ALSharaq
+https://www.youtube.com/watch?v=3-w4NKvDp9A
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="NEWS",Saudia
 https://www.youtube.com/watch?v=zcPjZaQbZXs
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="NEWS",AlGhad
 https://www.youtube.com/watch?v=nYE7_SPv5kM
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="NEWS",ExtraNews
+https://www.youtube.com/watch?v=iZC8BICuJXw
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="UAE",Zekrayat
 https://www.youtube.com/watch?v=uBTuV4DQWas
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",Tunis1
@@ -25,6 +29,8 @@ https://www.youtube.com/watch?v=DvxXHtfIwkE
 https://www.youtube.com/watch?v=5myqjgHbGhk
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Mecca
 https://www.youtube.com/watch?v=LIDkArI0kek
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Ressalah
+https://www.youtube.com/watch?v=d6tpBlpGsME
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Karbala
 https://www.youtube.com/watch?v=ppA6WTawAQw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="ISLAM",Bahrain Quran
