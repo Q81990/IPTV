@@ -155,6 +155,8 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-one-ae.png" tvg-country="IQ" tvg-url="" group-title="UAE",DubaiOne
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2013/10/nogoum-fm-1-220x108.jpg" tvg-country="IQ" tvg-url="" group-title="UAE",Nojoom
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/chunklist_w1693656216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/majid_tv_ae.png" tvg-country="IQ" tvg-url="" group-title="UAE",Majid
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/abu-dhabi-tv-4381-450x337.jpg" tvg-country="IQ" tvg-url="" group-title="UAE",AbuDhabi
