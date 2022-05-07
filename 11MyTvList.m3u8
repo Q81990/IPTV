@@ -71,6 +71,8 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/huebvDt.png" tvg-country="IQ" tvg-url="" group-title="MBC",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png?w=850&ssl=1" group-title="MBC",Kids
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-toon-arabic-ae.png" tvg-country="IQ" tvg-url="" group-title="UAE",SpaceToon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" tvg-country="IQ" tvg-url="" group-title="UAE",CN Kids
@@ -174,7 +176,6 @@ https://ahlualquran.tv/live/ysfbfBvecZ/SaNVjgaYnE/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/tt/taha_tv.png" tvg-country="IQ" tvg-url="" group-title="ISLAM",Taha
 https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://w7.pngwing.com/pngs/986/318/png-transparent-iran-al-alam-news-network-television-channel-press-tv-browning-buckmark-tattoos-television-text-trademark-thumbnail.png" tvg-country="IQ" tvg-url="" group-
-
 title="News",Alam
 https://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/al-hadath-5903-316x237.jpg" tvg-country="IQ" tvg-url="" group-title="News",Alarabiya
