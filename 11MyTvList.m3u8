@@ -234,3 +234,5 @@ https://cllive.itworkscdn.net/zikrayatlive/token=nva=1650270582~dirs=1~hash=054b
 https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.png" tvg-country="SA" tvg-url="" group-title="Syria",Orient
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2000
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
