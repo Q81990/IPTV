@@ -246,3 +246,5 @@ https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",CowBoy
 https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",Cartoon
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
