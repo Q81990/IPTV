@@ -113,8 +113,10 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Khalijia HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3" tvg-country="SA" tvg-url="" group-title="ARABIC",Rotana Comedy
-https://dai.google.com/linear/hls/pb/event/cH1Es-kjT9yxOW7P5ZUGTw/stream/0314ee6e-52f7-48b5-bf44-b6dcba1d91c1:SIN2/variant/4c65827b35e740303bd60662f344ada2/bandwidth/1266889.m3u8
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/uploads/2020/11/kids.png"  group-title="ARABIC",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3"  group-title="ARABIC",Rotana plus
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alrai_tv.png" tvg-country="SA" tvg-url="" group-title="Kuwait",AlRai
 https://media.streambrothers.com:1936/8724/8724/chunklist_w949276883.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-1-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Kuwait1
