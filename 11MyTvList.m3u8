@@ -236,3 +236,13 @@ https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2000
 https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",1990
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2010
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2020
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",Week
+https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",CowBoy
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
