@@ -94,7 +94,7 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zagros-tv-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1039993290_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
-http://91.134.145.75:10001/Dijlah/index.m3u8
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-al-rasheed-tv-9324-300x225.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Rasheed
@@ -262,3 +262,5 @@ http://185.105.4.107:1935/live/Bahrain%20TV/playlist.m3u8
 http://multies.xyz:8000/live/22-4-ML-EgYPt-NIleESC/0a0tCSkK1d/92.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/murr_tv_al_lubnaniya.png"  group-title="JORDAN",Amman
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/murr_tv_al_lubnaniya.png"  group-title="IRAQ",Bladi
+http://95.216.180.111:1935/live/68/chunklist_w1016747112.m3u8
