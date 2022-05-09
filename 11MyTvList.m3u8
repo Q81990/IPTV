@@ -213,7 +213,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mamlaka-tv-jo.png" tvg-country="IQ" tvg-url="" group-title="JORDAN",Mamlika
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" tvg-country="IQ" tvg-url="" group-title="JORDAN",Jordan
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Sabah
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Shahid
