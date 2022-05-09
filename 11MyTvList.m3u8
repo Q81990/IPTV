@@ -252,3 +252,5 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
 https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/murr_tv_al_lubnaniya.png"  group-title="ARABIC",Mtv
 https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1373015-n8Xs89nX8gS5GC5.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/murr_tv_al_lubnaniya.png"  group-title="NEWS",Alyoum
+https://ikomg1.s.llnwi.net/alyaumtv/1-01.m3u8
