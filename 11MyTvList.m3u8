@@ -236,17 +236,10 @@ https://cllive.itworkscdn.net/zikrayatlive/token=nva=1650270582~dirs=1~hash=054b
 https://tv-trtarabi.live.trt.com.tr/master_360.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.png" tvg-country="SA" tvg-url="" group-title="Syria",Orient
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
-#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2000
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",1990
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2010
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",2020
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",Week
 https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",CowBoy
 https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",Cartoon
-https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png"  group-title="MBC",MBC2
+https://2203.janjua.pw:8088/adfree/mbccc22222_Wwss/playlist.m3u8?vidictid=191217486797&id=106889&pk=db5146cfb411e36430f7297ee5bc3d68dc185e523d3ac23aa196aa0c759f857f
+
