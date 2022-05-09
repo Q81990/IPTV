@@ -248,3 +248,5 @@ https://2203.janjua.pw:8088/adfree/mbccc22222_Wwss/playlist.m3u8?vidictid=191217
 https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1652112517~dirs=1~hash=04d4e1ded4efe6dfcbd23/sumariamob.smil/live_480p_chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kuwait-tv-kw.png"  group-title="Kuwait",KTv1
 https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-arabe-kw.png"  group-title="Kuwait",KTArabi
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8
