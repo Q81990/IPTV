@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=i4A1L4xW6Ns
 https://www.youtube.com/watch?v=f-Zhea0apIs
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",France_AR
 https://www.youtube.com/watch?v=8BZpOolYLUA
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="",MBC,MB1
+#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC1
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC",Syriaedu
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
@@ -36,9 +36,9 @@ https://www.youtube.com/watch?v=iZC8BICuJXw
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="UAE",Zekrayat
 https://www.youtube.com/watch?v=uBTuV4DQWas
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",Tunis1
-https://www.youtube.com/watch?v=DvxXHtfIwkE
+https://www.youtube.com/watch?v=9VZFskCQ9Uc&ab_channel=WataniaReplay
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",Tunis2
-https://www.youtube.com/watch?v=5myqjgHbGhk
+https://www.youtube.com/watch?v=921aA2fEP2M&ab_channel=Watania2Replay
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Mecca
 https://www.youtube.com/watch?v=LIDkArI0kek
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ISLAM",Ressalah
