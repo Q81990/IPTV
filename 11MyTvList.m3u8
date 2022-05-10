@@ -121,12 +121,6 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://stream-04.sg1.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl97zqoRpqKxfLhIs-5DyqMEmVjYz9r4YgzBMclcxcZjP)/dm/3/x7wkoiv/d/live-3.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alrai_tv.png" tvg-country="SA" tvg-url="" group-title="Kuwait",AlRai
 https://media.streambrothers.com:1936/8724/8724/chunklist_w949276883.m3u8
-#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-1-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Kuwait1
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1650260994&e=1650347394&cf=1650347394&h=eab092596a2f017958d10f4ae1175ad2
-#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/kk/ktv-ethraa-kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Q8Ethraa
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_480p/chunks.m3u8?p=52&s=1650059229&e=1650145629&cf=1650145629&h=1d360d3ca3afc5e9c1b22c8a1543ed6e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alsumaria-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Sumria
-https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1650081234~dirs=1~hash=0cd8b329d8980b9104a35/sumariamob.smil/live_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al-iraqiya-news-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Iraq news
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Iraq 3Ama
