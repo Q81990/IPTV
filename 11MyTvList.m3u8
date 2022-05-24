@@ -33,8 +33,8 @@ https://www.youtube.com/watch?v=zcPjZaQbZXs
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alghadtv/live
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",ExtraNews
 https://www.youtube.com/watch?v=iZC8BICuJXw
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="UAE",Zekrayat
-https://www.youtube.com/watch?v=uBTuV4DQWas
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="UAE",Elblaad
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",Tunis1
 https://www.youtube.com/watch?v=9VZFskCQ9Uc&ab_channel=WataniaReplay
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",Tunis2
