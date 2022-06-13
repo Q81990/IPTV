@@ -7,11 +7,11 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/80087
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/61478
 #EXTINF:-1,group-title="Syria" ,SAMA TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1905
-#EXTINF:-1,group-title="Syria" ,SAMA TV+
+#EXTINF:-1 group-title="Syria",SAMA TV+
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/80086
 #EXTINF:-1,group-title="Syria" ,SYRIA TV
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/223
-#EXTINF:-1,group-title="Syria" ,SYRIA TV+
+#EXTINF:-1 group-title="Syria",SYRIA TV+
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/80085
 #EXTINF:-1,group-title="Syria" ,SYRIA NEWS
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1906
