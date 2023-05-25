@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Qatar
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master576p.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Mekameleen
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Roya
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Nessma
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="News",Alghad
 https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="News",Bahrain
@@ -24,7 +30,7 @@ https://www.youtube.com/watch?v=f-Zhea0apIs
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",France_AR
 https://www.youtube.com/watch?v=8BZpOolYLUA
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC1
-https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC",Syriaedu
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC",Syria Drama
