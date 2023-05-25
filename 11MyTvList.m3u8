@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Qatar
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master576p.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="News",Alghad
+https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",SBC
 https://www.youtube.com/watch?v=gZNXUi_Wcm8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",alkaherawalnas
