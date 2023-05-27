@@ -1,10 +1,42 @@
 #EXTM3U
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",iFm
+https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",moziq
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",sahel
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",Tunisia
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",Watnia1
+https://ythls.onrender.com/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",Tunis1
+http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",Tunis2
+http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",2m_monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",al_aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",al_aoula_laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",al_maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",arrabiaa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",arriadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",medi1fr
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",medi1ar
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",medi1tv
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Qatar
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master576p.m3u8
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Tunis1
-http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Tunis2
-http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Mekameleen
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Roya
