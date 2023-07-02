@@ -196,3 +196,94 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/KLG3
+#EXTM3U
+#EXTINF:-1  group-title="English Movies",Sony PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1  group-title="English Movies",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1  group-title="English Movies",Movies Now HD
+http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="English Movies",Rakuten TV Action Movies UK
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Rakuten TV Drama UK
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Rakuten TV Spotlight UK
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1  group-title="English Movies",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1  group-title="English Movies",FOX Movies
+http://flusonic-1.platinum-tv.com/fox_movies/index.m3u8
+#EXTINF:-1  group-title="English Movies",MY CINEMA
+https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
+#EXTINF:-1  group-title="English Movies",MBC 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1  group-title="English Movies",Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Hollywood HD
+http://152.89.35.254:8000/play/a00n/index.m3u8
+#EXTINF:-1  group-title="English Movies",HBO
+http://136.243.177.164/HBO/index.m3u8
+#EXTINF:-1  group-title="English Movies",HBO 3
+http://136.243.177.164/HBO3/index.m3u8
+#EXTINF:-1  group-title="English Movies",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Paramount Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1  group-title="English Movies",Movies
+http://51.52.156.22:8888/http/008
+#EXTINF:-1  group-title="English Movies",MCN My Cinema
+http://45.126.83.51/uq2663/h/h99/index.m3u8
+#EXTINF:-1  group-title="English Movies",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="English Movies",HBO : Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1  group-title="English Movies",HBO Signature CN
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1  group-title="English Movies",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1  group-title="English Movies",Star Movies HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
+#EXTINF:-1  group-title="English Movies",MN+ HD
+http://212.224.98.196:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="English Movies",Hallmark Movies & Mysteries
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1  group-title="English Movies",Rakuten TV Comedy Movies UK
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Rakuten TV Family Movies UK
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",&flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1  group-title="English Movies",FOX FAMILY Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1  group-title="English Movies",MBC MAX FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:-1  group-title="English Movies",MBC Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:-1  group-title="English Movies",AMC
+http://152.89.35.254:8000/play/a014/index.m3u8
+#EXTINF:-1  group-title="English Movies",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1  group-title="English Movies",HBO 2
+http://136.243.177.164/HBO2/index.m3u8
+#EXTINF:-1  group-title="English Movies",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1  group-title="English Movies",Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:-1  group-title="English Movies",Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Cine Life
+http://magnolia-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="English Movies",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1  group-title="English Movies",HBO SIGNATURE
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
+#EXTINF:-1  group-title="English Movies",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1  group-title="English Movies",Red by HBO HD(TH)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
