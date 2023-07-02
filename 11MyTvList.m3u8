@@ -37,6 +37,8 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Qatar
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master576p.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/mm/makan-33-il.png" group-title="ARABIC",Makan
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Mekameleen
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="ARABIC",Roya
