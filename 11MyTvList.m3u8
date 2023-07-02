@@ -254,6 +254,10 @@ https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait",Rai
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/flag/az/bh.png" group-title="Arabic",Baharain
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/flag/az/nl.png" group-title="News",EuroFR
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" tvg-country="SA" tvg-url="" group-title="Kuwait",Shahid
 https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image?c=12492&d=200x200" tvg-country="SA" tvg-url="" group-title="OSN",Weyaak1
