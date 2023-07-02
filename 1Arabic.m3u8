@@ -13,6 +13,8 @@ https://ythls.onrender.com/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",Tunis2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="MBC",Mbc1HD
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",2m_monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="Morroco",al_aoula
