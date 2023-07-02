@@ -61,8 +61,8 @@ https://www.youtube.com/watch?v=gZNXUi_Wcm8
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",alkaherawalnas2
 https://www.youtube.com/watch?v=y4ws3LzEV0U
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",BeeMovies
-https://www.youtube.com/watch?v=i4A1L4xW6Ns
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",SkyNews
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",DW_AR
 https://www.youtube.com/watch?v=f-Zhea0apIs
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",France_AR
