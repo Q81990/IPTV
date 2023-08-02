@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=1SlNOcN3MyI
 https://www.youtube.com/watch?v=yRvNZ8FcYlA
 #EXTINF:-1 type="video"  group-title="News",KSAnews
 https://www.youtube.com/watch?v=aDGXdv3M2qo
+#EXTINF:-1 type="video"  group-title="IRAQ",iNews
+https://www.youtube.com/watch?v=jiu4-9nROn4
+#EXTINF:-1 type="video"  group-title="IRAQ",Rabe3a
+https://www.youtube.com/watch?v=NLCpeK-JCGE
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",France_AR
 https://www.youtube.com/watch?v=8BZpOolYLUA
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="Islam",Quraan
