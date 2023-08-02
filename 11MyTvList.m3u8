@@ -173,8 +173,8 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/ch
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1650071008~dirs=1~hash=00f92db30f099ca2fee3a/alrabiaatv.smil/alrabiaatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sama-tv-sy.png" tvg-country="AE" tvg-url="" group-title="Syria",Sama
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" tvg-country="IQ" tvg-url="" group-title="News",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" tvg-country="IQ" tvg-url="" group-title="News",SKY
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alaraby-tv-2-uk.svg" tvg-country="IQ" tvg-url="" group-title="News",Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kyw_cbs3_philadelphia.png" tvg-country="IQ" tvg-url="" group-title="News",CBS
@@ -250,6 +250,8 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" tvg-country="IQ" tvg-url="" group-title="JORDAN",Jordan
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" tvg-country="IQ" tvg-url="" group-title="JORDAN",Leban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait",Sabah
 https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait",Sabah2
