@@ -59,12 +59,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assad
 https://www.youtube.com/watch?v=gZNXUi_Wcm8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",alkaherawalnas
 https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",alkaherawalnas2
-https://www.youtube.com/watch?v=y4ws3LzEV0U
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="ARABIC",BeeMovies
-https://www.youtube.com/watch?v=i4A1L4xW6Ns
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",DW_AR
-https://www.youtube.com/watch?v=f-Zhea0apIs
+#EXTINF:-1 type="video" group-title="ARABIC",alMushhad
+https://www.youtube.com/watch?v=A9VO3fPewOI
+#EXTINF:-1 type="video"  group-title="ARABIC",Magharbia
+https://www.youtube.com/watch?v=1SlNOcN3MyI
+#EXTINF:-1 type="video"  group-title="News",Mayadeen
+https://www.youtube.com/watch?v=yRvNZ8FcYlA
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",France_AR
 https://www.youtube.com/watch?v=8BZpOolYLUA
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="Islam",Quraan
