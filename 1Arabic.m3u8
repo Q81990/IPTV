@@ -1,9 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV LBN
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",ONE TV LBN
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="MBC",NBN TV LBN
-http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="MBC",VOICE OF LBN
-https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="Algeria",TV2 ALGERIE
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="Algeria",TV2 ALGERIE
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="Algeria",TV1 ENTV
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="Algeria",TV3 ALGERIE
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="Algeria",TV4 ALGERIE
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXjJGYZ/tv5al.png" group-title="Algeria",TV5 ALGERIE
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXcD722/tv6" group-title="Algeria",TV6 ALGERIE
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="Algeria",EL HAYAT TV
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="Algeria",EL FADRJ TV
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfwWGdQ/djan1.png" group-title="Algeria",EL DJAZAIR N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="Algeria",BAHIA TV
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="Algeria",AL24 NEWS
+https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="Algeria",EL HEDDAF TV
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="Algeria",ALANIS TV
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="Algeria",ECHOUROUK TV
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="Algeria",ECHOUROUK TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="Algeria",ECHOUROUK NEWS
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="Algeria",ECHOUROUK NEWS
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="Algeria",BEUR TV
+https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="Algeria",EL DJAZAIRIA TV
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h9yh1nr/lina.png" group-title="Algeria",LINA TV
+https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png" group-title="Iraq",UTV IRAQI
+https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="Iraq",AL RASHEED
+https://media1.livaat.com/AL-RASHEED-HD/tracks-v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Islam",TAHA TV
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png" group-title="JORDAN",JORDAN TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="JORDAN",ROYA TV
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
