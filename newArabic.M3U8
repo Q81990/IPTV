@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait", AlRai
+https://media.streambrothers.com:1936/8724/8724/chunklist_w949276883.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait", Sabah
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait", Sabah2
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait", Rai
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait", Shahid
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Movies", Week
+https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg" group-title="Movies", CowBoy
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="News", Alghad
+https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="News", Bahrain
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News", Mayadeen
+https://www.youtube.com/watch?v=yRvNZ8FcYlA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News", KSAnews
+https://www.youtube.com/watch?v=aDGXdv3M2qo
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News", BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-aoula-ma.png" group-title="News", France_AR
+https://www.youtube.com/watch?v=8BZpOolYLUA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alaraby-tv-2-uk.svg" group-title="News", ArabiyaHadeth
+https://www.youtube.com/watch?v=MW52zOYZCQc
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alaraby-tv-2-uk.svg" group-title="News", ALSharaq
+https://www.youtube.com/watch?v=3-w4NKvDp9A
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alaraby-tv-2-uk.svg" group-title="News", Saudia
+https://www.youtube.com/watch?v=zcPjZaQbZXs
+
