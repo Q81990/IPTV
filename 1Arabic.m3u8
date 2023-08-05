@@ -51,3 +51,165 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="JORDAN",ROYA TV
 https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Kuwait",Rai
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Jordan",ROYA TV
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Jordan",ROYA TV (backup)
+https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Jordan",ROYA TV (backup)
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="Lebanon",LBC LBN
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Lebanon",MTV LBN
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Lebanon",ONE TV LBN
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Lebanon",NBN TV LBN
+http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Lebanon",VOICE OF LBN
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="Lebanon",OTV LBN
+http://62.182.82.104/OTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png" group-title="Lebanon",NABAA TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80JQ9zg/teleliban.webp" group-title="Lebanon",TL LIBAN [geo-blocked]
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="MAGHREB",AL AOULA LAAYOUNE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="MAGHREB",Al AOULA INT
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAGHREB",2M MONDE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="MAGHREB",ASSADISSA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="MAGHREB",TAMAZIGHT
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="MAGHREB",M24 TV
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="MAGHREB",TELE MAROC
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="MAGHREB",TELE MAROC
+https://player-api.new.livestream.com/accounts/27130247/events/9197096/broadcasts/236798775.secure.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="MAGHREB",CHADA TV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="MAGHREB",CHADA TV
+https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="MAGHREB",MEDI 1 MG
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="MAGHREB",MEDI 1 AR
+http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="MAGHREB",MEDI 1 FR
+http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KcjbKf/almayadeen.png" group-title="News",AL MAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg" group-title="News",AL HAQIQA
+https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png" group-title="SAUDI",AL MAMLKA
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png" group-title="SAUDI",SAUDI CH 1
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0Rc9mJ/saudi2.png" group-title="SAUDI",SAUDI CH 2
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mtqZsZ4/saudi3.png" group-title="SAUDI",SAUDI CH 3
+https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png" group-title="Syria",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria",LANA TV
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg" group-title="Syria",SYRIA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="Tunis",WATANIA 1
+http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="Tunis",WATANIA 1
+https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="Tunis",WATANIA 2
+http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="Tunis",WATANIA 2
+https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="Tunis",ATTASIA 9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="Tunis",NESSMA
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="Tunis",SAMIRA TV
+https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="Tunis",SAMIRA TV
+https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png" group-title="UAE",ABU DHABI
+https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png" group-title="UAE",AL EMARAT
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png" group-title="UAE",SHARJAH TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7KSJQYX/sharjah2.png" group-title="UAE",SHARJAH TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png" group-title="UAE",QATAR TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png" group-title="UAE",QATAR TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dp728rg/rayan.png" group-title="UAE",AL RAYYAN
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png" group-title="UAE",AL RAYYAN QADEEM
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Vfg55v/almasira.png" group-title="UAE",AL MASIRA
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGHHGbj/alkhalij.jpg" group-title="UAE",AL KHALIJ TV
+https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="UAE",PANET 30 HALA
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="UAE",PANET 30 HALA
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="UAE",KAN 33 MAKAN
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" group-title="UAE",KAS QATAR 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ctfsd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" group-title="UAE",KAS QATAR 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2nbcq/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" group-title="UAE",KAS QATAR 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3actfsdc/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UAE",KAS QATAR 4
+https://liveak.alkassdigital.net/livehttporigin
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q6tZWdh/yas.png" group-title="UAE",YAS TV
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6xK2x9/aone.jpg" group-title="UAE",A ONE
+http://master.starmena-cloud.com/hls/a1jo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMyBBdb/kab.png" group-title="UAE",KAB 1
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fFZ3kZj/alwousta.png" group-title="UAE",AL WOUSTA
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TZPHf6/atfal.jpg" group-title="UAE",ATFAL
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vm3481D/amman.png" group-title="UAE",AMMAN TV
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="UAE",YEMEN MAHRIAH
+https://master.starmena-cloud.com/hls/almahriah.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="UAE",OMAN 1
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="UAE",OMAN MUNASHER
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="UAE",OMAN CULTURE
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg" group-title="UAE",AL JAYLIA
+https://media2.livaat.com/AL-Jaleyah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/740Znb4/ittihad.png" group-title="UAE",ETIHAD
+https://live.alittihad.tv:444/ittihad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png" group-title="UAE",AL ALAM IR
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dr7jn2L/baynounah.png" group-title="UAE",BAYNOUNAH
+https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png" group-title="UAE",RAJEEN
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png" group-title="UAE",QUDS TV
+http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png" group-title="UAE",PAL TV
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg" group-title="UAE",PAL-SAT
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png" group-title="UAE",YEMEN TODAY
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png" group-title="UAE",YEMEN SHABAB
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png" group-title="UAE",ALRAIMEDIA
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png" group-title="UAE",QAF
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+
