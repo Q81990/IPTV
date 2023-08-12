@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.tf1.fr/img/logo.svg" group-title="TF1",TF1
-https://tf1-live.francetv.fr/playlist-hls/tfid/index.m3u8?playlistType=low
-#EXTINF:-1 tvg-logo="https://www.nt1.fr/img/logo.svg" group-title="TF1",NT1
-https://nt1-live.francetv.fr/playlist-hls/nt1/index.m3u8?playlistType=low
-#EXTINF:-1 tvg-logo="https://www.m6.fr/img/logo.svg" group-title="TF1",M6
-https://m6-live.francetv.fr/playlist-hls/m6/index.m3u8?playlistType=low
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="Tunis",WATANIA 1
 https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="Tunis",WATANIA 2
