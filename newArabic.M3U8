@@ -258,10 +258,26 @@ http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png" group-title="GCC",YEMEN SHABAB
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",iNews IRAQI
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",ALShaqyeay
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zagros-tv-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w1039993290_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-al-rasheed-tv-9324-300x225.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Rasheed
+http://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png" group-title="Islam",QAF
