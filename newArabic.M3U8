@@ -159,7 +159,8 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png" group-title="Jordan",AL MAMLKA
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-
+#EXTINF:-1 type="video" group-title="GCC",ALMushhad
+https://www.youtube.com/embed/vPwCd8iJJKQ?si=suPp3MwQFywPNzyV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png" group-title="GCC",SAUDI CH 1
 https://edge.taghtia.com/sa/1.m3u8
 
