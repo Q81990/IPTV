@@ -303,6 +303,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",CowBoy
 https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://media.timeout.com/images/105751285/380/285/image.jpg"  group-title="Movies",Rai3
+https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1  tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png"  group-title="MBC",MBC2
 http://46.249.33.108:8000/live/22-3-ML-MBC2-Max-Action/o4R3bxVX1d/106.m3u8
 #EXTINF:-1  tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png"  group-title="MBC",MBC2
