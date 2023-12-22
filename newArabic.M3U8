@@ -273,6 +273,8 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunk
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",Furat
+http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",iNews IRAQI
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",ALShaqyeay
