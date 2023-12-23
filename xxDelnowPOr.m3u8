@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0,Channel 1
 https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8
 
@@ -115,3 +116,78 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 
 #EXTINF:0,Channel 39
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:0,Channel 40
+https://vs.sednastream.com:1936/citytv/citytv/playlist.m3u8
+
+#EXTINF:0,Channel 41
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:0,Channel 42
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Channel 43
+https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
+
+#EXTINF:0,Channel 44
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+
+#EXTINF:0,Channel 45
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Channel 46
+https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
+
+#EXTINF:0,Channel 47
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+
+#EXTINF:0,Channel 48
+http://141.95.145.70:8088/hls/mcn.m3u8
+
+#EXTINF:0,Channel 49
+https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
+
+#EXTINF:0,Channel 50
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:0,Channel 51
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:0,Channel 52
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+
+#EXTINF:0,Channel 53
+https://deb10stream.duckdns.org/hls/stream.m3u8
+
+#EXTINF:0,Channel 54
+https://protokolldns.xyz/rtvislamweebstdkksdfsdjkd/index.m3u8
+
+#EXTINF:0,Channel 55
+http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
+
+#EXTINF:0,Channel 56
+https://vs.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
+
+#EXTINF:0,Channel 57
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:0,Channel 58
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:0,Channel 59
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+
+#EXTINF:0,Channel 60
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+
+#EXTINF:0,Channel 61
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+
+#EXTINF:0,Channel 62
+https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
+
+#EXTINF:0,Channel 63
+http://moobl.ru/hls/NTV_mir.m3u8
+
+#EXTINF:0,Channel 64
+http://moobl.ru/hls/RTR
