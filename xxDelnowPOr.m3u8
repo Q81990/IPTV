@@ -46,3 +46,72 @@ https://dunyanhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0,Channel 16
 https://eslahtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0,Channel 17
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:0,Channel 18
+https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
+
+#EXTINF:0,Channel 19
+http://51.210.199.58/hls/stream.m3u8
+
+#EXTINF:0,Channel 20
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+
+#EXTINF:0,Channel 21
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+
+#EXTINF:0,Channel 22
+https://www.hewadwal.com:19360/noortv_abr/noortv_abr.m3u8
+
+#EXTINF:0,Channel 23
+https://hls.rta.live/hls/stream.m3u8
+
+#EXTINF:0,Channel 24
+https://hls.rtasport.live/hls/stream.m3u8
+
+#EXTINF:0,Channel 25
+https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
+
+#EXTINF:0,Channel 26
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/index.m3u8
+
+#EXTINF:0,Channel 27
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
+
+#EXTINF:0,Channel 28
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
+
+#EXTINF:0,Channel 29
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8
+
+#EXTINF:0,Channel 30
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+
+#EXTINF:0,Channel 31
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+
+#EXTINF:0,Channel 32
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+
+#EXTINF:0,Channel 33
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:0,Channel 34
+https://albportal.net/albkanalemusic.m3u8
+
+#EXTINF:0,Channel 35
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+
+#EXTINF:0,Channel 36
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
+
+#EXTINF:0,Channel 37
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:0,Channel 38
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:0,Channel 39
+https://bloomberg.com/media-manifest/streams/eu.m3u8
