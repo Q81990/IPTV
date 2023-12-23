@@ -237,6 +237,8 @@ https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="GCC",YEMEN MAHRIAH
 https://master.starmena-cloud.com/hls/almahriah.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv.png" group-title="GCC",Bahrain
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="GCC",OMAN 1
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="GCC",OMAN MUNASHER
