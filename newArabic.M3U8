@@ -148,6 +148,9 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Kids",TAHA TV
 https://media2.livaat.com/TAHA-TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png" group-title="Kids",Movies TV
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png" group-title="Syria",LANA TV
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 
