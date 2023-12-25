@@ -290,7 +290,7 @@ http://95.216.180.111:1935/live/10/playlist.m3u8
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",ALShaqyeay
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/imn-iq.png" tvg-country="IQ" tvg-url="" group-title="IRAQ",ALShaqyeay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.freeintertv.com/modules/Main/image_1/alsharkia.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",ALShaqyeay
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jK0ZR5/alrasheed.png" group-title="IRAQ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
