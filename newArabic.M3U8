@@ -158,9 +158,9 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png" group-title="Jordan",AL MAMLKA
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 type="video" group-title="GCC",ALMushhad
-https://www.youtube.com/embed/DXXyBru6HuI?si=43nD-VzneLnN1I1v
-#EXTINF:-1 type="video" group-title="GCC",ALMushhad2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grt-tv-tr.png"  group-title="GCC",TR Grt TV
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" group-title="GCC",ALMushhad
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 type="video" group-title="GCC",FMonteCarlo
