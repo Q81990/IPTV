@@ -7,6 +7,7 @@ http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png" group-title="Tunis",ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stZxQHF/nessma.png" group-title="Tunis",NESSMA
 https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="Tunis",SAMIRA TV
@@ -164,7 +165,8 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",VOICE OF LBN
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",alwifak
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grt-tv-tr.png"  group-title="GCC",TR Grt TV
 https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" group-title="GCC",ALMushhad
