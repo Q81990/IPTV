@@ -194,6 +194,8 @@ https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Jordan",ROYA TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sama-tv-sy.png" group-title="Jordan",Sema TV
+https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png" group-title="UAE",SHARJAH TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
