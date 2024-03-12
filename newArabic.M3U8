@@ -27,8 +27,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="Morocco",AL MAGHRIBIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="Morocco",AL MAGHRIBIA2
-https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="Morocco",ASSADISSA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="Morocco",TAMAZIGHT
@@ -453,6 +451,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/inde
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png" group-title="MBC",MBC DRAMA PLUS
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png" group-title="MBC",MBC MASR 1
