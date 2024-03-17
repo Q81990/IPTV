@@ -281,7 +281,7 @@ https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png" group-title="Syria",RAJEEN
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png" group-title="Syria",QUDS TV
-http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png" group-title="Syria",PAL TV
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg" group-title="Syria",PAL-SAT
