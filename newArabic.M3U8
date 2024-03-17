@@ -274,6 +274,8 @@ https://live.alittihad.tv:444/ittihad/playlist.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-manar-tv-lb.png" group-title="News",AL Manar
 https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alyaum-channel-sy.png" group-title="News",Alyaum
+https://alyaum-tv.akamaized.net/hls/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg" group-title="Islam",AL HAQIQA
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dr7jn2L/baynounah.png" group-title="Islam",BAYNOUNAH
