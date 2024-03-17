@@ -108,7 +108,7 @@ https://www.youtube.com/c/alghadtv/live
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="News",ExtraNews
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc-sa.png" group-title="UAE",Elblaad
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/thikrayat-tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="ISLAM",Bahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H8SaZXN.png" tvg-country="PS" tvg-url="" group-title="ARABIC",Alfajer Tv HD 2
