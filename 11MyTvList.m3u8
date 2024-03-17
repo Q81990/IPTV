@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",iFm
-https://ythls.onrender.com/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
+#EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",iFmnew600
+http://138.201.201.122:8080/tdn/tdn/600.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",moziq
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 type="video" tvg-logo="https://www.lyngsat.com/logo/flag/az/tn.png" group-title="Tunis",sahel
