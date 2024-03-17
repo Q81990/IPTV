@@ -278,6 +278,9 @@ https://manar.live/iptv/playlist.m3u8
 https://alyaum-tv.akamaized.net/hls/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg" group-title="Islam",AL HAQIQA
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_resalah.png" group-title="Islam",AL risala
+https://rotananet.hibridcdn.net/rotana/risalaint_abr/token=p=53~e=1710690669~h=5cd9b0a42f3c6bd9c198f3ccfdc62f01/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dr7jn2L/baynounah.png" group-title="Islam",BAYNOUNAH
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png" group-title="Syria",RAJEEN
