@@ -423,8 +423,8 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg" group-title="Kids",GULLI ARABI
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg" group-title="Weyyak",TEN WEYYAK
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg" group-title="Weyyak",Ressalah
+https://rotananet.hibridcdn.net/rotana/risala_abr/token=p=50~e=1712348237~h=d178f57f7bfd398ebb815da2006eb9fe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="Islam",IQRAA
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="Islam",IQRAA
