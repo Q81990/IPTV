@@ -27,11 +27,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="Morocco",ARRABIAA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="Morocco",AL MAGHRIBIA
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+tgn.bozztv.com/trn01/gin-almaghribia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="Morocco",ASSADISSA
-https://tgn.bozztv.com/trn01/gin-almaghribia/tracks-v1a1/mono.m3u8
+https://tgn.bozztv.com/trn01/gin-ASSADISSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="Morocco",TAMAZIGHT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="Morocco",M24 TV
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="Morocco",TELE MAROC
@@ -43,11 +44,11 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="Morocco",CHADA TV2
 https://edge18.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 MG
-http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 AR
-http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 FR
-http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="Algeria",TV2 ALGERIE [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
