@@ -35,33 +35,19 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="Morocco",M24 TV
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="Morocco",TELE MAROC
-https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+https://tgn.bozztv.com/trn01/gin-almaghribia/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="Morocco",CHADA TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="Morocco",CHADA TV2
+https://edge18.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 MG
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 AR
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 FR
 http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" group-title="Morocco", AlAoula Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png" group-title="Morocco", Al Aoula Laayoune
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png" group-title="Morocco", Arryadia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png" group-title="Morocco", Arrabiaa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="Algeria",TV2 ALGERIE [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
@@ -513,9 +499,9 @@ https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC",MBC MOVIES THRILLER
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
-https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
@@ -547,7 +533,7 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tw3gRvT/rotanadrama.png" group-title="Rotana",ROTANA DRAMA
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nLJLxbN/weyyak.jpg" group-title="Weyyak",MELODY DRAMA
-https://weyyak-live.akamaized.net/weyyak_drama/tracks-v2a1/mono.m3u8
+https://usher.ttvnw.net/api/channel/hls/elbaladtv.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=109.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%206.1&p=9004148&parent_domains=twitchplayer&platform=web&play_session_id=82261a377bc21f3eab2db3829eef2540&player_backend=mediaplayer&player_version=1.29.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=956b6d1bbcf7992c521baf97f34f21447583b476&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elbaladtv%22%2C%22channel_id%22%3A473225201%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22uJcTljT5gfgBLNc3Tba5bG53zFSr3Szx%22%2C%22expires%22%3A1717765880%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22122.150.73.151%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nLJLxbN/weyyak.jpg" group-title="Weyyak",MELODY MIX
 https://weyyak-live.akamaized.net/weyyak_mix/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png" group-title="UAE",DUBAI TV
