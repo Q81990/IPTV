@@ -172,6 +172,8 @@ https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",alwifak
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",Eyge1
+https://player.tlfaz.com/playlist/SVd6YjdLMW45bDBhVW82NEpzY2pPNHlORURteG5uVkI2azlzcFBUc1MvZWlieVlWMG5yWDdYNy8xaU9US3grM3V2RGdYaS9aN0FVM0tWalNiSHNBa1E9PQ,,/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grt-tv-tr.png"  group-title="GCC",TR Grt TV
 https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" group-title="GCC",ALMushhad
@@ -500,6 +502,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
