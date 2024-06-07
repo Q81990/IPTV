@@ -44,6 +44,25 @@ http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="Morocco",MEDI 1 FR
 http://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" group-title="Morocco", AlAoula Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png" group-title="Morocco", Al Aoula Laayoune
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png" group-title="Morocco", Arryadia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png" group-title="Morocco", Arrabiaa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="Algeria",TV2 ALGERIE [hta_dz-off]
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="Algeria",TV1 ENTV [hta_dz-off]
