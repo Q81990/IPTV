@@ -19,7 +19,7 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="Morocco",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="Morocco",Al AOULA INTz
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+https://bozztv.com/gin-36bay4/gin-AlAoula/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="Morocco",2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="Morocco",ARRIADIA
@@ -172,6 +172,9 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",VOICE OF LBN
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",syria drama
+https://bozztv.com/gin-36bay4/ga-syrian-drama-tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",alwifak
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH7W9tX/volbn.png" group-title="Jordan",Eyge1
@@ -504,7 +507,7 @@ https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" group-title="MBC",MBC MOVIES THRILLER
 https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA wkng
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png" group-title="Rotana",ROTANA CINEMA
