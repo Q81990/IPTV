@@ -37,7 +37,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="Morocco",TELE MAROC
 https://tgn.bozztv.com/trn01/gin-almaghribia/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="Morocco",TELE MAROC2
+https://playback.akamaized.net/streams/27130247_9197096_lsi4dmg2iesgn3rs37g_1/master.m3u8?dw=14400&hdnts=exp=1722076233~acl=/streams/27130247_9197096_lsi4dmg2iesgn3rs37g_1/master.m3u8*~hmac=c76550aabf9358fb3797e3799e4503e282530470ba3ca9da302e9070ecc104d2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="Morocco",CHADA TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
