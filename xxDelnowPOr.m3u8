@@ -1,193 +1,23 @@
 #EXTM3U
 
-#EXTINF:0,Channel 1
-https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8
 
-#EXTINF:0,Channel 2
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-
-#EXTINF:0,Channel 3
-https://hls.afintl.com/hls/stream.m3u8
-
-#EXTINF:0,Channel 4
-https://amchls.wns.live/hls/stream.m3u8
-
-#EXTINF:0,Channel 5
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-
-#EXTINF:0,Channel 6
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-
-#EXTINF:0,Channel 7
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-
-#EXTINF:0,Channel 8
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
-
-#EXTINF:0,Channel 9
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-
-#EXTINF:0,Channel 10
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
-
-#EXTINF:0,Channel 11
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
-
-#EXTINF:0,Channel 12
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:0,Channel 13
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:0,Channel 14
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-
-#EXTINF:0,Channel 15
-https://dunyanhls.wns.live/hls/stream.m3u8
-
-#EXTINF:0,Channel 16
-https://eslahtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:0,Channel 17
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:0,Channel 18
-https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
-
-#EXTINF:0,Channel 19
-http://51.210.199.58/hls/stream.m3u8
-
-#EXTINF:0,Channel 20
-https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
-
-#EXTINF:0,Channel 21
-https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-
-#EXTINF:0,Channel 22
-https://www.hewadwal.com:19360/noortv_abr/noortv_abr.m3u8
-
-#EXTINF:0,Channel 23
-https://hls.rta.live/hls/stream.m3u8
-
-#EXTINF:0,Channel 24
-https://hls.rtasport.live/hls/stream.m3u8
-
-#EXTINF:0,Channel 25
-https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-
-#EXTINF:0,Channel 26
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/index.m3u8
-
-#EXTINF:0,Channel 27
-https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
-
-#EXTINF:0,Channel 28
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
-
-#EXTINF:0,Channel 29
-https://iptv.sohailtv.com/sohail/playlist/index.m3u8
-
-#EXTINF:0,Channel 30
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
-
-#EXTINF:0,Channel 31
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-
-#EXTINF:0,Channel 32
-https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-
-#EXTINF:0,Channel 33
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-
-#EXTINF:0,Channel 34
-https://albportal.net/albkanalemusic.m3u8
-
-#EXTINF:0,Channel 35
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-
-#EXTINF:0,Channel 36
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
-
-#EXTINF:0,Channel 37
-http://ott-cdn.ucom.am/s24/index.m3u8
-
-#EXTINF:0,Channel 38
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-
-#EXTINF:0,Channel 39
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:0,Channel 40
-https://vs.sednastream.com:1936/citytv/citytv/playlist.m3u8
-
-#EXTINF:0,Channel 41
-https://live1.mediadesk.al/cnatvlive.m3u8
-
-#EXTINF:0,Channel 42
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:0,Channel 43
-https://ythls.armelin.one/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
-
-#EXTINF:0,Channel 44
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-
-#EXTINF:0,Channel 45
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:0,Channel 46
-https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
-
-#EXTINF:0,Channel 47
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-
-#EXTINF:0,Channel 48
-http://141.95.145.70:8088/hls/mcn.m3u8
-
-#EXTINF:0,Channel 49
-https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
-
-#EXTINF:0,Channel 50
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-
-#EXTINF:0,Channel 51
-https://live1.mediadesk.al/oranews.m3u8
-
-#EXTINF:0,Channel 52
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-
-#EXTINF:0,Channel 53
-https://deb10stream.duckdns.org/hls/stream.m3u8
-
-#EXTINF:0,Channel 54
-https://protokolldns.xyz/rtvislamweebstdkksdfsdjkd/index.m3u8
-
-#EXTINF:0,Channel 55
-http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
-
-#EXTINF:0,Channel 56
-https://vs.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
-
-#EXTINF:0,Channel 57
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-
-#EXTINF:0,Channel 58
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-
-#EXTINF:0,Channel 59
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-
-#EXTINF:0,Channel 60
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-
-#EXTINF:0,Channel 61
-https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-
-#EXTINF:0,Channel 62
-https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
-
-#EXTINF:0,Channel 63
-http://moobl.ru/hls/NTV_mir.m3u8
-
-#EXTINF:0,Channel 64
-http://moobl.ru/hls/RTR
+#EXTINF:0 tvg-id="AlAoula.ma" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" group-title="", AlAoula Tv
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:0 tvg-id="AlMaghribia.ma" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png" group-title="",Al Maghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png" group-title="", Al Aoula Laayoune
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="Arryadia.ma" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png" group-title="", Arryadia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="Arrabiaa.ma" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png" group-title="", Arrabiaa
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="Assadissa.ma" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png" group-title="", Assadissa
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="AlThamenahTamazight.ma" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight.png" group-title="",Tamazight
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
