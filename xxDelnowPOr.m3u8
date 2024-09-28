@@ -1,203 +1,29 @@
 #EXTM3U
+#EXTINF:-1 group-title="SAUDI", SAUDI 1
+http://echtirak.com:8080/live/tdn/tdn/679.ts
+#EXTINF:-1 group-title="SAUDI", KSA SPORTS +2 HD
+http://echtirak.com:8080/live/tdn/tdn/244.ts
+#EXTINF:-1 group-title="SAUDI", KSA SPORTS +1 HD
+http://echtirak.com:8080/live/tdn/tdn/243.ts
+#EXTINF:-1 group-title="SAUDI", SAUDI SPORT 2
+http://echtirak.com:8080/live/tdn/tdn/242.ts
+#EXTINF:-1 group-title="SAUDI", SAUDI SPORT 1
+http://echtirak.com:8080/live/tdn/tdn/241.ts
+#EXTINF:-1 group-title="SAUDI", KAIFA TV
+http://echtirak.com:8080/live/tdn/tdn/687.ts
+#EXTINF:-1 group-title="SAUDI", DHEKRAYAT TV
+http://echtirak.com:8080/live/tdn/tdn/683.ts
+#EXTINF:-1 group-title="SAUDI", ALSHARQIA KSA
+http://echtirak.com:8080/live/tdn/tdn/684.ts
+#EXTINF:-1 group-title="SAUDI", AL KHALIJ
+http://echtirak.com:8080/live/tdn/tdn/685.ts
+#EXTINF:-1 group-title="SAUDI", AL ITIHAD
+http://echtirak.com:8080/live/tdn/tdn/686.ts
+#EXTINF:-1 group-title="SAUDI", SBC SAUDI
+http://echtirak.com:8080/live/tdn/tdn/682.ts
+#EXTINF:-1 group-title="SAUDI", ALEKHBARIYA
+http://echtirak.com:8080/live/tdn/tdn/681.ts
 
 
-#EXTINF:-1 group-title="ALGERIA", ALGERIA ENTV
-http://echtirak.com:8080/live/tdn/tdn/705.ts
-#EXTINF:-1 group-title="ALGERIA", DJAZAIRIA N1
-http://echtirak.com:8080/live/tdn/tdn/720.ts
-#EXTINF:-1 group-title="ALGERIA", BERBERE TV
-http://echtirak.com:8080/live/tdn/tdn/727.ts
-#EXTINF:-1 group-title="ALGERIA", AL MAGHARIBIA
-http://echtirak.com:8080/live/tdn/tdn/723.ts
-#EXTINF:-1 group-title="ALGERIA", ALHAYAT ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/728.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 8 ALDHAKIRA
-http://echtirak.com:8080/live/tdn/tdn/712.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 7 ALMAARIFA
-http://echtirak.com:8080/live/tdn/tdn/711.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 6
-http://echtirak.com:8080/live/tdn/tdn/710.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA5 5 QURAN
-http://echtirak.com:8080/live/tdn/tdn/709.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 4 TAMAZIGHT
-http://echtirak.com:8080/live/tdn/tdn/708.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 3
-http://echtirak.com:8080/live/tdn/tdn/707.ts
-#EXTINF:-1 group-title="ALGERIA", ALFADJR ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/725.ts
-#EXTINF:-1 group-title="ALGERIA", ALBILAD
-http://echtirak.com:8080/live/tdn/tdn/726.ts
-#EXTINF:-1 group-title="ALGERIA", ALBAHIYA
-http://echtirak.com:8080/live/tdn/tdn/724.ts
-#EXTINF:-1 group-title="ALGERIA", SAMIRA TV
-http://echtirak.com:8080/live/tdn/tdn/719.ts
-#EXTINF:-1 group-title="ALGERIA", ENNAHAR ALGERIE
-http://echtirak.com:8080/live/tdn/tdn/714.ts
-#EXTINF:-1 group-title="ALGERIA", EL HADDAF
-http://echtirak.com:8080/live/tdn/tdn/715.ts
-#EXTINF:-1 group-title="ALGERIA", ECHOROUK NEWS
-http://echtirak.com:8080/live/tdn/tdn/717.ts
-#EXTINF:-1 group-title="ALGERIA", ECHOROUK ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/716.ts
-#EXTINF:-1 group-title="ALGERIA", CANAL ALGERIE
-http://echtirak.com:8080/live/tdn/tdn/713.ts
-#EXTINF:-1 group-title="ALGERIA", DJAZAIRIA N1
-http://echtirak.com:8080/live/tdn/tdn/720.ts
-#EXTINF:-1 group-title="ALGERIA", BERBERE TV
-http://echtirak.com:8080/live/tdn/tdn/727.ts
-#EXTINF:-1 group-title="ALGERIA", AL MAGHARIBIA
-http://echtirak.com:8080/live/tdn/tdn/723.ts
-#EXTINF:-1 group-title="ALGERIA", ALHAYAT ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/728.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 8 ALDHAKIRA
-http://echtirak.com:8080/live/tdn/tdn/712.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 7 ALMAARIFA
-http://echtirak.com:8080/live/tdn/tdn/711.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 6
-http://echtirak.com:8080/live/tdn/tdn/710.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA5 5 QURAN
-http://echtirak.com:8080/live/tdn/tdn/709.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 4 TAMAZIGHT
-http://echtirak.com:8080/live/tdn/tdn/708.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 3
-http://echtirak.com:8080/live/tdn/tdn/707.ts
-#EXTINF:-1 group-title="ALGERIA", ALFADJR ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/725.ts
-#EXTINF:-1 group-title="ALGERIA", ALBILAD
-http://echtirak.com:8080/live/tdn/tdn/726.ts
-#EXTINF:-1 group-title="ALGERIA", ALBAHIYA
-http://echtirak.com:8080/live/tdn/tdn/724.ts
-#EXTINF:-1 group-title="ALGERIA", SAMIRA TV
-http://echtirak.com:8080/live/tdn/tdn/719.ts
-#EXTINF:-1 group-title="ALGERIA", ENNAHAR ALGERIE
-http://echtirak.com:8080/live/tdn/tdn/714.ts
-#EXTINF:-1 group-title="ALGERIA", EL HADDAF
-http://echtirak.com:8080/live/tdn/tdn/715.ts
-#EXTINF:-1 group-title="ALGERIA", ECHOROUK NEWS
-http://echtirak.com:8080/live/tdn/tdn/717.ts
-#EXTINF:-1 group-title="ALGERIA", ECHOROUK ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/716.ts
-#EXTINF:-1 group-title="ALGERIA", CANAL ALGERIE
-http://echtirak.com:8080/live/tdn/tdn/713.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA ENTV
-http://echtirak.com:8080/live/tdn/tdn/705.ts
-#EXTINF:-1 group-title="ALGERIA", DJAZAIRIA N1
-http://echtirak.com:8080/live/tdn/tdn/720.ts
-#EXTINF:-1 group-title="ALGERIA", BERBERE TV
-http://echtirak.com:8080/live/tdn/tdn/727.ts
-#EXTINF:-1 group-title="ALGERIA", AL MAGHARIBIA
-http://echtirak.com:8080/live/tdn/tdn/723.ts
-#EXTINF:-1 group-title="ALGERIA", ALHAYAT ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/728.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 8 ALDHAKIRA
-http://echtirak.com:8080/live/tdn/tdn/712.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 7 ALMAARIFA
-http://echtirak.com:8080/live/tdn/tdn/711.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 6
-http://echtirak.com:8080/live/tdn/tdn/710.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA5 5 QURAN
-http://echtirak.com:8080/live/tdn/tdn/709.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 4 TAMAZIGHT
-http://echtirak.com:8080/live/tdn/tdn/708.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA 3
-http://echtirak.com:8080/live/tdn/tdn/707.ts
-#EXTINF:-1 group-title="ALGERIA", ALFADJR ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/725.ts
-#EXTINF:-1 group-title="ALGERIA", ALBILAD
-http://echtirak.com:8080/live/tdn/tdn/726.ts
-#EXTINF:-1 group-title="ALGERIA", ALBAHIYA
-http://echtirak.com:8080/live/tdn/tdn/724.ts
-#EXTINF:-1 group-title="ALGERIA", SAMIRA TV
-http://echtirak.com:8080/live/tdn/tdn/719.ts
-#EXTINF:-1 group-title="ALGERIA", ENNAHAR ALGERIE
-http://echtirak.com:8080/live/tdn/tdn/714.ts
-#EXTINF:-1 group-title="ALGERIA", EL HADDAF
-http://echtirak.com:8080/live/tdn/tdn/715.ts
-#EXTINF:-1 group-title="ALGERIA", ECHOROUK NEWS
-http://echtirak.com:8080/live/tdn/tdn/717.ts
-#EXTINF:-1 group-title="ALGERIA", ECHOROUK ALGERIA
-http://echtirak.com:8080/live/tdn/tdn/716.ts
-#EXTINF:-1 group-title="ALGERIA", CANAL ALGERIE
-http://echtirak.com:8080/live/tdn/tdn/713.ts
-#EXTINF:-1 group-title="ALGERIA", ALGERIA ENTV
-http://echtirak.com:8080/live/tdn/tdn/705.ts
 
-#EXTINF:-1 group-title="AL Majd", AL MAJD SPACE
-http://echtirak.com:8080/live/tdn/tdn/9958898.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD RAWDA
-http://echtirak.com:8080/live/tdn/tdn/9958908.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD BASMA
-http://echtirak.com:8080/live/tdn/tdn/9958904.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD KIDS
-http://echtirak.com:8080/live/tdn/tdn/9958910.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD EDU
-http://echtirak.com:8080/live/tdn/tdn/9958901.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD DAL
-http://echtirak.com:8080/live/tdn/tdn/9958902.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD TAGHRED
-http://echtirak.com:8080/live/tdn/tdn/9958906.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD NEWS
-http://echtirak.com:8080/live/tdn/tdn/9958909.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD TABEEYA
-http://echtirak.com:8080/live/tdn/tdn/9958903.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD DOCUMENTARY
-http://echtirak.com:8080/live/tdn/tdn/9958907.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD  HADEETH
-http://echtirak.com:8080/live/tdn/tdn/9958900.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD QURAN
-http://echtirak.com:8080/live/tdn/tdn/9958899.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD MASSA
-http://echtirak.com:8080/live/tdn/tdn/9958905.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD RAWDA
-http://echtirak.com:8080/live/tdn/tdn/9958908.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD BASMA
-http://echtirak.com:8080/live/tdn/tdn/9958904.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD KIDS
-http://echtirak.com:8080/live/tdn/tdn/9958910.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD EDU
-http://echtirak.com:8080/live/tdn/tdn/9958901.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD DAL
-http://echtirak.com:8080/live/tdn/tdn/9958902.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD TAGHRED
-http://echtirak.com:8080/live/tdn/tdn/9958906.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD NEWS
-http://echtirak.com:8080/live/tdn/tdn/9958909.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD TABEEYA
-http://echtirak.com:8080/live/tdn/tdn/9958903.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD DOCUMENTARY
-http://echtirak.com:8080/live/tdn/tdn/9958907.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD  HADEETH
-http://echtirak.com:8080/live/tdn/tdn/9958900.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD QURAN
-http://echtirak.com:8080/live/tdn/tdn/9958899.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD MASSA
-http://echtirak.com:8080/live/tdn/tdn/9958905.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD SPACE
-http://echtirak.com:8080/live/tdn/tdn/9958898.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD RAWDA
-http://echtirak.com:8080/live/tdn/tdn/9958908.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD BASMA
-http://echtirak.com:8080/live/tdn/tdn/9958904.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD KIDS
-http://echtirak.com:8080/live/tdn/tdn/9958910.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD EDU
-http://echtirak.com:8080/live/tdn/tdn/9958901.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD DAL
-http://echtirak.com:8080/live/tdn/tdn/9958902.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD TAGHRED
-http://echtirak.com:8080/live/tdn/tdn/9958906.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD NEWS
-http://echtirak.com:8080/live/tdn/tdn/9958909.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD TABEEYA
-http://echtirak.com:8080/live/tdn/tdn/9958903.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD DOCUMENTARY
-http://echtirak.com:8080/live/tdn/tdn/9958907.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD  HADEETH
-http://echtirak.com:8080/live/tdn/tdn/9958900.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD QURAN
-http://echtirak.com:8080/live/tdn/tdn/9958899.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD MASSA
-http://echtirak.com:8080/live/tdn/tdn/9958905.ts
-#EXTINF:-1 group-title="AL Majd", AL MAJD SPACE
-http://echtirak.com:8080/live/tdn/tdn/9958898.ts
 
