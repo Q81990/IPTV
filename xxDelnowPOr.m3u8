@@ -1,4 +1,151 @@
 #EXTM3U
+#EXTINF:-1 group-title="ALGERIE", ALGERIA ENTV
+http://echtirak.com:8080/live/tdn/tdn/705.ts
+#EXTINF:-1 group-title="ALGERIE", DJAZAIRIA N1
+http://echtirak.com:8080/live/tdn/tdn/720.ts
+#EXTINF:-1 group-title="ALGERIE", BERBERE TV
+http://echtirak.com:8080/live/tdn/tdn/727.ts
+#EXTINF:-1 group-title="ALGERIE", AL MAGHARIBIA
+http://echtirak.com:8080/live/tdn/tdn/723.ts
+#EXTINF:-1 group-title="ALGERIE", ALHAYAT ALGERIA
+http://echtirak.com:8080/live/tdn/tdn/728.ts
+#EXTINF:-1 group-title="ALGERIE", ALGERIA 8 ALDHAKIRA
+http://echtirak.com:8080/live/tdn/tdn/712.ts
+#EXTINF:-1 group-title="ALGERIE", ALGERIA 7 ALMAARIFA
+http://echtirak.com:8080/live/tdn/tdn/711.ts
+#EXTINF:-1 group-title="ALGERIE", ALGERIA 6
+http://echtirak.com:8080/live/tdn/tdn/710.ts
+#EXTINF:-1 group-title="ALGERIE", ALGERIA5 5 QURAN
+http://echtirak.com:8080/live/tdn/tdn/709.ts
+#EXTINF:-1 group-title="ALGERIE", ALGERIA 4 TAMAZIGHT
+http://echtirak.com:8080/live/tdn/tdn/708.ts
+#EXTINF:-1 group-title="ALGERIE", ALGERIA 3
+http://echtirak.com:8080/live/tdn/tdn/707.ts
+#EXTINF:-1 group-title="ALGERIE", ALFADJR ALGERIA
+http://echtirak.com:8080/live/tdn/tdn/725.ts
+#EXTINF:-1 group-title="ALGERIE", ALBILAD
+http://echtirak.com:8080/live/tdn/tdn/726.ts
+#EXTINF:-1 group-title="ALGERIE", ALBAHIYA
+http://echtirak.com:8080/live/tdn/tdn/724.ts
+#EXTINF:-1 group-title="ALGERIE", SAMIRA TV
+http://echtirak.com:8080/live/tdn/tdn/719.ts
+#EXTINF:-1 group-title="ALGERIE", ENNAHAR ALGERIE
+http://echtirak.com:8080/live/tdn/tdn/714.ts
+#EXTINF:-1 group-title="ALGERIE", EL HADDAF
+http://echtirak.com:8080/live/tdn/tdn/715.ts
+#EXTINF:-1 group-title="ALGERIE", ECHOROUK NEWS
+http://echtirak.com:8080/live/tdn/tdn/717.ts
+#EXTINF:-1 group-title="ALGERIE", ECHOROUK ALGERIA
+http://echtirak.com:8080/live/tdn/tdn/716.ts
+#EXTINF:-1 group-title="ALGERIE", CANAL ALGERIE
+http://echtirak.com:8080/live/tdn/tdn/713.ts
+
+#EXTINF:-1 group-title="EGYPT", ALHAYAT EGYPT
+http://echtirak.com:8080/live/tdn/tdn/332.ts
+#EXTINF:-1 group-title="EGYPT", STAR CINEMA
+http://echtirak.com:8080/live/tdn/tdn/366.ts
+#EXTINF:-1 group-title="EGYPT", MISR ALZIRA3IA
+http://echtirak.com:8080/live/tdn/tdn/370.ts
+#EXTINF:-1 group-title="EGYPT", MAZZIKA
+http://echtirak.com:8080/live/tdn/tdn/356.ts
+#EXTINF:-1 group-title="EGYPT", B4U AFLAM
+http://echtirak.com:8080/live/tdn/tdn/368.ts
+#EXTINF:-1 group-title="EGYPT", CINEMA 2
+http://echtirak.com:8080/live/tdn/tdn/365.ts
+#EXTINF:-1 group-title="EGYPT", CINEMA 1
+http://echtirak.com:8080/live/tdn/tdn/364.ts
+#EXTINF:-1 group-title="EGYPT", ELMOLED
+http://echtirak.com:8080/live/tdn/tdn/347.ts
+#EXTINF:-1 group-title="EGYPT", AL SEHA WA ALJAMEL
+http://echtirak.com:8080/live/tdn/tdn/346.ts
+#EXTINF:-1 group-title="EGYPT", MASPERO ZAMAN
+http://echtirak.com:8080/live/tdn/tdn/349.ts
+#EXTINF:-1 group-title="EGYPT", CIMA
+http://echtirak.com:8080/live/tdn/tdn/348.ts
+#EXTINF:-1 group-title="EGYPT", SADA ALBALAD DRAMA
+http://echtirak.com:8080/live/tdn/tdn/345.ts
+#EXTINF:-1 group-title="EGYPT", SADA ALBALAD 2
+http://echtirak.com:8080/live/tdn/tdn/344.ts
+#EXTINF:-1 group-title="EGYPT", SADA ALBALAD
+http://echtirak.com:8080/live/tdn/tdn/343.ts
+#EXTINF:-1 group-title="EGYPT", TEN EGYPT
+http://echtirak.com:8080/live/tdn/tdn/342.ts
+#EXTINF:-1 group-title="EGYPT", PANORAMA FOOD
+http://echtirak.com:8080/live/tdn/tdn/358.ts
+#EXTINF:-1 group-title="EGYPT", PANORAMA FILM
+http://echtirak.com:8080/live/tdn/tdn/361.ts
+#EXTINF:-1 group-title="EGYPT", PANORAMA DRAMA 2
+http://echtirak.com:8080/live/tdn/tdn/360.ts
+#EXTINF:-1 group-title="EGYPT", PANORAMA DRAMA
+http://echtirak.com:8080/live/tdn/tdn/359.ts
+#EXTINF:-1 group-title="EGYPT", NILE NEWS
+http://echtirak.com:8080/live/tdn/tdn/354.ts
+#EXTINF:-1 group-title="EGYPT", NILE INT
+http://echtirak.com:8080/live/tdn/tdn/355.ts
+#EXTINF:-1 group-title="EGYPT", NILE DRAMA
+http://echtirak.com:8080/live/tdn/tdn/353.ts
+#EXTINF:-1 group-title="EGYPT", NILE COMEDY
+http://echtirak.com:8080/live/tdn/tdn/352.ts
+#EXTINF:-1 group-title="EGYPT", NILE CINEMA
+http://echtirak.com:8080/live/tdn/tdn/351.ts
+#EXTINF:-1 group-title="EGYPT", ALNAHAR DRAMA
+http://echtirak.com:8080/live/tdn/tdn/341.ts
+#EXTINF:-1 group-title="EGYPT", ALNAHAR
+http://echtirak.com:8080/live/tdn/tdn/340.ts
+#EXTINF:-1 group-title="EGYPT", ALKAHERA W NESS 2
+http://echtirak.com:8080/live/tdn/tdn/339.ts
+#EXTINF:-1 group-title="EGYPT", ALKAHERA W NESS
+http://echtirak.com:8080/live/tdn/tdn/338.ts
+#EXTINF:-1 group-title="EGYPT", AL QAHERA NEWS
+http://echtirak.com:8080/live/tdn/tdn/363.ts
+#EXTINF:-1 group-title="EGYPT", ALMEHWAR
+http://echtirak.com:8080/live/tdn/tdn/327.ts
+#EXTINF:-1 group-title="EGYPT", AL SA3EED
+http://echtirak.com:8080/live/tdn/tdn/362.ts
+#EXTINF:-1 group-title="EGYPT", AL DELTA
+http://echtirak.com:8080/live/tdn/tdn/8214.ts
+#EXTINF:-1 group-title="EGYPT", ALASKANDRIA
+http://echtirak.com:8080/live/tdn/tdn/54050.ts
+#EXTINF:-1 group-title="EGYPT", ALKANAL
+http://echtirak.com:8080/live/tdn/tdn/54055.ts
+#EXTINF:-1 group-title="EGYPT", AL KAHERA
+http://echtirak.com:8080/live/tdn/tdn/54061.ts
+#EXTINF:-1 group-title="EGYPT", ALTHANIYA EGYPT
+http://echtirak.com:8080/live/tdn/tdn/337.ts
+#EXTINF:-1 group-title="EGYPT", ALOULA EGYPT
+http://echtirak.com:8080/live/tdn/tdn/336.ts
+#EXTINF:-1 group-title="EGYPT", AL MASRIYAH
+http://echtirak.com:8080/live/tdn/tdn/335.ts
+#EXTINF:-1 group-title="EGYPT", EGYPT TV
+http://echtirak.com:8080/live/tdn/tdn/334.ts
+#EXTINF:-1 group-title="EGYPT", ALHAYAT WE ALNASS
+http://echtirak.com:8080/live/tdn/tdn/369.ts
+#EXTINF:-1 group-title="EGYPT", CBC XTRA NEWS
+http://echtirak.com:8080/live/tdn/tdn/329.ts
+#EXTINF:-1 group-title="EGYPT", CBC SOFRA EGYPT
+http://echtirak.com:8080/live/tdn/tdn/331.ts
+#EXTINF:-1 group-title="EGYPT", CBC QURAN KAREEM
+http://echtirak.com:8080/live/tdn/tdn/28.ts
+#EXTINF:-1 group-title="EGYPT", CBC DRAMA
+http://echtirak.com:8080/live/tdn/tdn/52818.ts
+#EXTINF:-1 group-title="EGYPT", CBC
+http://echtirak.com:8080/live/tdn/tdn/318.ts
+#EXTINF:-1 group-title="EGYPT", ON DRAMA
+http://echtirak.com:8080/live/tdn/tdn/322.ts
+#EXTINF:-1 group-title="EGYPT", ON EGYPT
+http://echtirak.com:8080/live/tdn/tdn/320.ts
+#EXTINF:-1 group-title="EGYPT", DMC DRAMA
+http://echtirak.com:8080/live/tdn/tdn/326.ts
+#EXTINF:-1 group-title="EGYPT", DMC
+http://echtirak.com:8080/live/tdn/tdn/324.ts
+#EXTINF:-1 group-title="EGYPT", MBC MASR
+http://echtirak.com:8080/live/tdn/tdn/323.ts
+#EXTINF:-1 group-title="EGYPT", ALHAYAT MUSALSALAT
+http://echtirak.com:8080/live/tdn/tdn/333.ts
+
+
+
+
 #EXTINF:-1 group-title="SAUDI", SAUDI 1
 http://echtirak.com:8080/live/tdn/tdn/679.ts
 #EXTINF:-1 group-title="SAUDI", KSA SPORTS +2 HD
