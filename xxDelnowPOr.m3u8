@@ -3,131 +3,124 @@
 https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png" group-title="Tunis",WATANIA 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
-#EXTINF:-1, HUDA TV EGYPT
-http://echtirak.com:8080/live/tdn/tdn/9951149.ts
-#EXTINF:-1, IQRAA
-http://echtirak.com:8080/live/tdn/tdn/27.ts
-#EXTINF:-1, MAKKAH LIVE
-http://echtirak.com:8080/live/tdn/tdn/25.ts
-#EXTINF:-1, QURAN KAREEM LIVE
-http://echtirak.com:8080/live/tdn/tdn/24.ts
-#EXTINF:-1, ALGERIA ENTV
+
+#EXTINF:-1 group-title="ALGERIA", ALGERIA ENTV
 http://echtirak.com:8080/live/tdn/tdn/705.ts
-#EXTINF:-1, DJAZAIRIA N1
+#EXTINF:-1 group-title="ALGERIA", DJAZAIRIA N1
 http://echtirak.com:8080/live/tdn/tdn/720.ts
-#EXTINF:-1, BERBERE TV
+#EXTINF:-1 group-title="ALGERIA", BERBERE TV
 http://echtirak.com:8080/live/tdn/tdn/727.ts
-#EXTINF:-1, AL MAGHARIBIA
+#EXTINF:-1 group-title="ALGERIA", AL MAGHARIBIA
 http://echtirak.com:8080/live/tdn/tdn/723.ts
-#EXTINF:-1, ALHAYAT ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ALHAYAT ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/728.ts
-#EXTINF:-1, ALGERIA 8 ALDHAKIRA
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 8 ALDHAKIRA
 http://echtirak.com:8080/live/tdn/tdn/712.ts
-#EXTINF:-1, ALGERIA 7 ALMAARIFA
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 7 ALMAARIFA
 http://echtirak.com:8080/live/tdn/tdn/711.ts
-#EXTINF:-1, ALGERIA 6
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 6
 http://echtirak.com:8080/live/tdn/tdn/710.ts
-#EXTINF:-1, ALGERIA5 5 QURAN
+#EXTINF:-1 group-title="ALGERIA", ALGERIA5 5 QURAN
 http://echtirak.com:8080/live/tdn/tdn/709.ts
-#EXTINF:-1, ALGERIA 4 TAMAZIGHT
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 4 TAMAZIGHT
 http://echtirak.com:8080/live/tdn/tdn/708.ts
-#EXTINF:-1, ALGERIA 3
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 3
 http://echtirak.com:8080/live/tdn/tdn/707.ts
-#EXTINF:-1, ALFADJR ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ALFADJR ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/725.ts
-#EXTINF:-1, ALBILAD
+#EXTINF:-1 group-title="ALGERIA", ALBILAD
 http://echtirak.com:8080/live/tdn/tdn/726.ts
-#EXTINF:-1, ALBAHIYA
+#EXTINF:-1 group-title="ALGERIA", ALBAHIYA
 http://echtirak.com:8080/live/tdn/tdn/724.ts
-#EXTINF:-1, SAMIRA TV
+#EXTINF:-1 group-title="ALGERIA", SAMIRA TV
 http://echtirak.com:8080/live/tdn/tdn/719.ts
-#EXTINF:-1, ENNAHAR ALGERIE
+#EXTINF:-1 group-title="ALGERIA", ENNAHAR ALGERIE
 http://echtirak.com:8080/live/tdn/tdn/714.ts
-#EXTINF:-1, EL HADDAF
+#EXTINF:-1 group-title="ALGERIA", EL HADDAF
 http://echtirak.com:8080/live/tdn/tdn/715.ts
-#EXTINF:-1, ECHOROUK NEWS
+#EXTINF:-1 group-title="ALGERIA", ECHOROUK NEWS
 http://echtirak.com:8080/live/tdn/tdn/717.ts
-#EXTINF:-1, ECHOROUK ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ECHOROUK ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/716.ts
-#EXTINF:-1, CANAL ALGERIE
+#EXTINF:-1 group-title="ALGERIA", CANAL ALGERIE
 http://echtirak.com:8080/live/tdn/tdn/713.ts
-#EXTINF:-1, DJAZAIRIA N1
+#EXTINF:-1 group-title="ALGERIA", DJAZAIRIA N1
 http://echtirak.com:8080/live/tdn/tdn/720.ts
-#EXTINF:-1, BERBERE TV
+#EXTINF:-1 group-title="ALGERIA", BERBERE TV
 http://echtirak.com:8080/live/tdn/tdn/727.ts
-#EXTINF:-1, AL MAGHARIBIA
+#EXTINF:-1 group-title="ALGERIA", AL MAGHARIBIA
 http://echtirak.com:8080/live/tdn/tdn/723.ts
-#EXTINF:-1, ALHAYAT ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ALHAYAT ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/728.ts
-#EXTINF:-1, ALGERIA 8 ALDHAKIRA
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 8 ALDHAKIRA
 http://echtirak.com:8080/live/tdn/tdn/712.ts
-#EXTINF:-1, ALGERIA 7 ALMAARIFA
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 7 ALMAARIFA
 http://echtirak.com:8080/live/tdn/tdn/711.ts
-#EXTINF:-1, ALGERIA 6
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 6
 http://echtirak.com:8080/live/tdn/tdn/710.ts
-#EXTINF:-1, ALGERIA5 5 QURAN
+#EXTINF:-1 group-title="ALGERIA", ALGERIA5 5 QURAN
 http://echtirak.com:8080/live/tdn/tdn/709.ts
-#EXTINF:-1, ALGERIA 4 TAMAZIGHT
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 4 TAMAZIGHT
 http://echtirak.com:8080/live/tdn/tdn/708.ts
-#EXTINF:-1, ALGERIA 3
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 3
 http://echtirak.com:8080/live/tdn/tdn/707.ts
-#EXTINF:-1, ALFADJR ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ALFADJR ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/725.ts
-#EXTINF:-1, ALBILAD
+#EXTINF:-1 group-title="ALGERIA", ALBILAD
 http://echtirak.com:8080/live/tdn/tdn/726.ts
-#EXTINF:-1, ALBAHIYA
+#EXTINF:-1 group-title="ALGERIA", ALBAHIYA
 http://echtirak.com:8080/live/tdn/tdn/724.ts
-#EXTINF:-1, SAMIRA TV
+#EXTINF:-1 group-title="ALGERIA", SAMIRA TV
 http://echtirak.com:8080/live/tdn/tdn/719.ts
-#EXTINF:-1, ENNAHAR ALGERIE
+#EXTINF:-1 group-title="ALGERIA", ENNAHAR ALGERIE
 http://echtirak.com:8080/live/tdn/tdn/714.ts
-#EXTINF:-1, EL HADDAF
+#EXTINF:-1 group-title="ALGERIA", EL HADDAF
 http://echtirak.com:8080/live/tdn/tdn/715.ts
-#EXTINF:-1, ECHOROUK NEWS
+#EXTINF:-1 group-title="ALGERIA", ECHOROUK NEWS
 http://echtirak.com:8080/live/tdn/tdn/717.ts
-#EXTINF:-1, ECHOROUK ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ECHOROUK ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/716.ts
-#EXTINF:-1, CANAL ALGERIE
+#EXTINF:-1 group-title="ALGERIA", CANAL ALGERIE
 http://echtirak.com:8080/live/tdn/tdn/713.ts
-#EXTINF:-1, ALGERIA ENTV
+#EXTINF:-1 group-title="ALGERIA", ALGERIA ENTV
 http://echtirak.com:8080/live/tdn/tdn/705.ts
-#EXTINF:-1, DJAZAIRIA N1
+#EXTINF:-1 group-title="ALGERIA", DJAZAIRIA N1
 http://echtirak.com:8080/live/tdn/tdn/720.ts
-#EXTINF:-1, BERBERE TV
+#EXTINF:-1 group-title="ALGERIA", BERBERE TV
 http://echtirak.com:8080/live/tdn/tdn/727.ts
-#EXTINF:-1, AL MAGHARIBIA
+#EXTINF:-1 group-title="ALGERIA", AL MAGHARIBIA
 http://echtirak.com:8080/live/tdn/tdn/723.ts
-#EXTINF:-1, ALHAYAT ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ALHAYAT ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/728.ts
-#EXTINF:-1, ALGERIA 8 ALDHAKIRA
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 8 ALDHAKIRA
 http://echtirak.com:8080/live/tdn/tdn/712.ts
-#EXTINF:-1, ALGERIA 7 ALMAARIFA
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 7 ALMAARIFA
 http://echtirak.com:8080/live/tdn/tdn/711.ts
-#EXTINF:-1, ALGERIA 6
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 6
 http://echtirak.com:8080/live/tdn/tdn/710.ts
-#EXTINF:-1, ALGERIA5 5 QURAN
+#EXTINF:-1 group-title="ALGERIA", ALGERIA5 5 QURAN
 http://echtirak.com:8080/live/tdn/tdn/709.ts
-#EXTINF:-1, ALGERIA 4 TAMAZIGHT
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 4 TAMAZIGHT
 http://echtirak.com:8080/live/tdn/tdn/708.ts
-#EXTINF:-1, ALGERIA 3
+#EXTINF:-1 group-title="ALGERIA", ALGERIA 3
 http://echtirak.com:8080/live/tdn/tdn/707.ts
-#EXTINF:-1, ALFADJR ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ALFADJR ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/725.ts
-#EXTINF:-1, ALBILAD
+#EXTINF:-1 group-title="ALGERIA", ALBILAD
 http://echtirak.com:8080/live/tdn/tdn/726.ts
-#EXTINF:-1, ALBAHIYA
+#EXTINF:-1 group-title="ALGERIA", ALBAHIYA
 http://echtirak.com:8080/live/tdn/tdn/724.ts
-#EXTINF:-1, SAMIRA TV
+#EXTINF:-1 group-title="ALGERIA", SAMIRA TV
 http://echtirak.com:8080/live/tdn/tdn/719.ts
-#EXTINF:-1, ENNAHAR ALGERIE
+#EXTINF:-1 group-title="ALGERIA", ENNAHAR ALGERIE
 http://echtirak.com:8080/live/tdn/tdn/714.ts
-#EXTINF:-1, EL HADDAF
+#EXTINF:-1 group-title="ALGERIA", EL HADDAF
 http://echtirak.com:8080/live/tdn/tdn/715.ts
-#EXTINF:-1, ECHOROUK NEWS
+#EXTINF:-1 group-title="ALGERIA", ECHOROUK NEWS
 http://echtirak.com:8080/live/tdn/tdn/717.ts
-#EXTINF:-1, ECHOROUK ALGERIA
+#EXTINF:-1 group-title="ALGERIA", ECHOROUK ALGERIA
 http://echtirak.com:8080/live/tdn/tdn/716.ts
-#EXTINF:-1, CANAL ALGERIE
+#EXTINF:-1 group-title="ALGERIA", CANAL ALGERIE
 http://echtirak.com:8080/live/tdn/tdn/713.ts
-#EXTINF:-1, ALGERIA ENTV
+#EXTINF:-1 group-title="ALGERIA", ALGERIA ENTV
 http://echtirak.com:8080/live/tdn/tdn/705.ts
