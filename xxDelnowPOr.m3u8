@@ -353,6 +353,59 @@ http://echtirak.com:8080/live/tdn/tdn/291.ts
 #EXTINF:-1 group-title="LEBANON", ALJADEED FHD
 http://echtirak.com:8080/live/tdn/tdn/290.ts
 
+
+#EXTINF:-1 group-title="N E W S", ALJAZEERA NEWS
+http://echtirak.com:8080/live/tdn/tdn/1.ts
+#EXTINF:-1 group-title="N E W S", I24 NEWS
+http://echtirak.com:8080/live/tdn/tdn/54060.ts
+#EXTINF:-1 group-title="N E W S", TRT TURKEY ARABIC
+http://echtirak.com:8080/live/tdn/tdn/17.ts
+#EXTINF:-1 group-title="N E W S", RUSSIA TODAY
+http://echtirak.com:8080/live/tdn/tdn/8.ts
+#EXTINF:-1 group-title="N E W S", DW ARABIC
+http://echtirak.com:8080/live/tdn/tdn/12.ts
+#EXTINF:-1 group-title="N E W S", CP24
+http://echtirak.com:8080/live/tdn/tdn/21.ts
+#EXTINF:-1 group-title="N E W S", CNBC NEWS
+http://echtirak.com:8080/live/tdn/tdn/20.ts
+#EXTINF:-1 group-title="N E W S", CGTN ARABIC
+http://echtirak.com:8080/live/tdn/tdn/52840.ts
+#EXTINF:-1 group-title="N E W S", BBC NEWS
+http://echtirak.com:8080/live/tdn/tdn/15.ts
+#EXTINF:-1 group-title="N E W S", ALSHARQ NEWS
+http://echtirak.com:8080/live/tdn/tdn/13.ts
+#EXTINF:-1 group-title="N E W S", AL QAHERA NEWS
+http://echtirak.com:8080/live/tdn/tdn/54057.ts
+#EXTINF:-1 group-title="N E W S", AL MEKAMELEN
+http://echtirak.com:8080/live/tdn/tdn/10.ts
+#EXTINF:-1 group-title="N E W S", AL HIWAR NEWS
+http://echtirak.com:8080/live/tdn/tdn/9.ts
+#EXTINF:-1 group-title="N E W S", CNN AMERICA
+http://echtirak.com:8080/live/tdn/tdn/11.ts
+#EXTINF:-1 group-title="N E W S", ALGHAD
+http://echtirak.com:8080/live/tdn/tdn/19.ts
+#EXTINF:-1 group-title="N E W S", ALHURRA IRAQ
+http://echtirak.com:8080/live/tdn/tdn/23.ts
+#EXTINF:-1 group-title="N E W S", ALARABY NEWS
+http://echtirak.com:8080/live/tdn/tdn/14.ts
+#EXTINF:-1 group-title="N E W S", FRANCE 24 ARABIC
+http://echtirak.com:8080/live/tdn/tdn/7.ts
+#EXTINF:-1 group-title="N E W S", AL ARABIYA HADATH
+http://echtirak.com:8080/live/tdn/tdn/6.ts
+#EXTINF:-1 group-title="N E W S", AL ARABIYA
+http://echtirak.com:8080/live/tdn/tdn/5.ts
+#EXTINF:-1 group-title="N E W S", ALJAZEERA MUBASHER
+http://echtirak.com:8080/live/tdn/tdn/3.ts
+#EXTINF:-1 group-title="N E W S", ALJAZEERA ENGLISH
+http://echtirak.com:8080/live/tdn/tdn/4.ts
+#EXTINF:-1 group-title="N E W S", SKY NEWS ARABIC
+http://echtirak.com:8080/live/tdn/tdn/16.ts
+#EXTINF:-1 group-title="N E W S", FOX NEWS
+http://echtirak.com:8080/live/tdn/tdn/18.ts
+#EXTINF:-1 group-title="N E W S", ALJAZEERA NEWS *
+http://echtirak.com:8080/live/tdn/tdn/2.ts
+
+
 #EXTINF:-1 group-title="MAROC", ARRIADIA TNT
 http://echtirak.com:8080/live/tdn/tdn/9959138.ts
 #EXTINF:-1 group-title="MAROC", TAMAZIGHT MAROC
@@ -390,6 +443,131 @@ http://echtirak.com:8080/live/tdn/tdn/694.ts
 #EXTINF:-1 group-title="MAROC", ALOULA MAROC TNT
 http://echtirak.com:8080/live/tdn/tdn/9959137.ts
 
+#EXTINF:-1 group-title="SYRIA", SYRIA NATIONAL
+http://echtirak.com:8080/live/tdn/tdn/731.ts
+#EXTINF:-1 group-title="SYRIA", ROJAVA
+http://echtirak.com:8080/live/tdn/tdn/746.ts
+#EXTINF:-1 group-title="SYRIA", MINBIJ TV
+http://echtirak.com:8080/live/tdn/tdn/741.ts
+#EXTINF:-1 group-title="SYRIA", HALAB TODAY TV
+http://echtirak.com:8080/live/tdn/tdn/744.ts
+#EXTINF:-1 group-title="SYRIA", AL QANAT 9
+http://echtirak.com:8080/live/tdn/tdn/745.ts
+#EXTINF:-1 group-title="SYRIA", AL KHABAR TV
+http://echtirak.com:8080/live/tdn/tdn/743.ts
+#EXTINF:-1 group-title="SYRIA", AL ALAM SYRIA
+http://echtirak.com:8080/live/tdn/tdn/53820.ts
+#EXTINF:-1 group-title="SYRIA", SHAM FM TV
+http://echtirak.com:8080/live/tdn/tdn/735.ts
+#EXTINF:-1 group-title="SYRIA", NOOR SHAM SYRIA
+http://echtirak.com:8080/live/tdn/tdn/738.ts
+#EXTINF:-1 group-title="SYRIA", SYRIA EDUCATION
+http://echtirak.com:8080/live/tdn/tdn/742.ts
+#EXTINF:-1 group-title="SYRIA", SAKAKER KIDS
+http://echtirak.com:8080/live/tdn/tdn/65108.ts
+#EXTINF:-1 group-title="SYRIA", SYRIA NEWS
+http://echtirak.com:8080/live/tdn/tdn/739.ts
+#EXTINF:-1 group-title="SYRIA", DRAMA 24
+http://echtirak.com:8080/live/tdn/tdn/65109.ts
+#EXTINF:-1 group-title="SYRIA", SYRIANA
+http://echtirak.com:8080/live/tdn/tdn/740.ts
+#EXTINF:-1 group-title="SYRIA", SYRIA ALMAHALIA
+http://echtirak.com:8080/live/tdn/tdn/54062.ts
+#EXTINF:-1 group-title="SYRIA", SYRIA TV
+http://echtirak.com:8080/live/tdn/tdn/737.ts
+#EXTINF:-1 group-title="SYRIA", SAMA SYRIA
+http://echtirak.com:8080/live/tdn/tdn/734.ts
+#EXTINF:-1 group-title="SYRIA", LANA SYRIA
+http://echtirak.com:8080/live/tdn/tdn/736.ts
+#EXTINF:-1 group-title="SYRIA", SYRIA DRAMA
+http://echtirak.com:8080/live/tdn/tdn/733.ts
+
+#EXTINF:-1 group-title="TUNISIA", TUNISIA NAT 1
+http://echtirak.com:8080/live/tdn/tdn/260.ts
+#EXTINF:-1 group-title="TUNISIA", TUNISIA TV 1
+http://echtirak.com:8080/live/tdn/tdn/279.ts
+#EXTINF:-1 group-title="TUNISIA", TUNISIA NAT 2 *
+http://echtirak.com:8080/live/tdn/tdn/271.ts
+#EXTINF:-1 group-title="TUNISIA", TUNISIA NAT 2
+http://echtirak.com:8080/live/tdn/tdn/270.ts
+#EXTINF:-1 group-title="TUNISIA", TUNISIA NAT 1 *
+http://echtirak.com:8080/live/tdn/tdn/261.ts
+#EXTINF:-1 group-title="TUNISIA", TUNISIA EDUCATION
+http://echtirak.com:8080/live/tdn/tdn/284.ts
+#EXTINF:-1 group-title="TUNISIA", RADIO TUNISIA
+http://echtirak.com:8080/live/tdn/tdn/8145.ts
+#EXTINF:-1 group-title="TUNISIA", RADIO IFM
+http://echtirak.com:8080/live/tdn/tdn/8146.ts
+#EXTINF:-1 group-title="TUNISIA", MOSAIQUE FM
+http://echtirak.com:8080/live/tdn/tdn/285.ts
+#EXTINF:-1 group-title="TUNISIA", JAWHARA TV
+http://echtirak.com:8080/live/tdn/tdn/286.ts
+#EXTINF:-1 group-title="TUNISIA", ZAYTOONA
+http://echtirak.com:8080/live/tdn/tdn/282.ts
+#EXTINF:-1 group-title="TUNISIA", SAHEL TV
+http://echtirak.com:8080/live/tdn/tdn/288.ts
+#EXTINF:-1 group-title="TUNISIA", ALMUSTAKILLA
+http://echtirak.com:8080/live/tdn/tdn/287.ts
+#EXTINF:-1 group-title="TUNISIA", ALJANOUBIYA
+http://echtirak.com:8080/live/tdn/tdn/281.ts
+#EXTINF:-1 group-title="TUNISIA", ALINSAN
+http://echtirak.com:8080/live/tdn/tdn/283.ts
+#EXTINF:-1 group-title="TUNISIA", TUNISNA
+http://echtirak.com:8080/live/tdn/tdn/278.ts
+#EXTINF:-1 group-title="TUNISIA", CARTHAGE+ *
+http://echtirak.com:8080/live/tdn/tdn/277.ts
+#EXTINF:-1 group-title="TUNISIA", CARTHAGE+
+http://echtirak.com:8080/live/tdn/tdn/276.ts
+#EXTINF:-1 group-title="TUNISIA", TELVZA TV
+http://echtirak.com:8080/live/tdn/tdn/280.ts
+#EXTINF:-1 group-title="TUNISIA", AL TASSIA *
+http://echtirak.com:8080/live/tdn/tdn/264.ts
+#EXTINF:-1 group-title="TUNISIA", AL TASSIA
+http://echtirak.com:8080/live/tdn/tdn/265.ts
+#EXTINF:-1 group-title="TUNISIA", HANIBAL *
+http://echtirak.com:8080/live/tdn/tdn/10049.ts
+#EXTINF:-1 group-title="TUNISIA", HANIBAL
+http://echtirak.com:8080/live/tdn/tdn/275.ts
+#EXTINF:-1 group-title="TUNISIA", NESSMA *
+http://echtirak.com:8080/live/tdn/tdn/272.ts
+#EXTINF:-1 group-title="TUNISIA", NESSMA
+http://echtirak.com:8080/live/tdn/tdn/273.ts
+#EXTINF:-1 group-title="TUNISIA", ALHIWAR TUNISIA *
+http://echtirak.com:8080/live/tdn/tdn/262.ts
+#EXTINF:-1 group-title="TUNISIA", ALHIWAR TUNISIA
+http://echtirak.com:8080/live/tdn/tdn/263.ts
+#EXTINF:-1 group-title="TUNISIA", okay
+http://echtirak.com:8080/live/tdn/tdn/266.ts
+
+#EXTINF:-1 group-title="LIBYA ", LIBYA AL AHRAR
+http://echtirak.com:8080/live/tdn/tdn/892.ts
+#EXTINF:-1 group-title="LIBYA ", WTV
+http://echtirak.com:8080/live/tdn/tdn/887.ts
+#EXTINF:-1 group-title="LIBYA ", SALEM LIBYA
+http://echtirak.com:8080/live/tdn/tdn/895.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA TANASUH
+http://echtirak.com:8080/live/tdn/tdn/890.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA TV
+http://echtirak.com:8080/live/tdn/tdn/889.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA SPORTS 2
+http://echtirak.com:8080/live/tdn/tdn/51257.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA SPORTS 1
+http://echtirak.com:8080/live/tdn/tdn/51258.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA HADATH
+http://echtirak.com:8080/live/tdn/tdn/893.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA FEBRUARY
+http://echtirak.com:8080/live/tdn/tdn/894.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA ALMUSTAQBEL
+http://echtirak.com:8080/live/tdn/tdn/52839.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA ALWATANIA
+http://echtirak.com:8080/live/tdn/tdn/888.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA ALRASMIYA
+http://echtirak.com:8080/live/tdn/tdn/52850.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA ALJAMAHIRIA
+http://echtirak.com:8080/live/tdn/tdn/891.ts
+
+
+
 
 #EXTINF:-1 group-title="UAE", ABU DHABI
 http://echtirak.com:8080/live/tdn/tdn/812.ts
@@ -420,6 +598,62 @@ http://echtirak.com:8080/live/tdn/tdn/52843.ts
 #EXTINF:-1 group-title="UAE", ABU DHABI DRAMA
 http://echtirak.com:8080/live/tdn/tdn/813.ts
 
+#EXTINF:-1 group-title="Qatar Bein", AL JAZEERA
+http://echtirak.com:8080/live/tdn/tdn/105.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN TRAVEL
+http://echtirak.com:8080/live/tdn/tdn/52193.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN GOURMET
+http://echtirak.com:8080/live/tdn/tdn/99.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN FATAFEAT
+http://echtirak.com:8080/live/tdn/tdn/98.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN FOX LIFE
+http://echtirak.com:8080/live/tdn/tdn/96.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN FOX MOVIES
+http://echtirak.com:8080/live/tdn/tdn/95.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS AFC
+http://echtirak.com:8080/live/tdn/tdn/119.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS XTRA 3
+http://echtirak.com:8080/live/tdn/tdn/70.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS XTRA 2
+http://echtirak.com:8080/live/tdn/tdn/72.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS XTRA 1
+http://echtirak.com:8080/live/tdn/tdn/71.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS HABER TR
+http://echtirak.com:8080/live/tdn/tdn/51289.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS GLOBAL US
+http://echtirak.com:8080/live/tdn/tdn/116.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS GLOBAL
+http://echtirak.com:8080/live/tdn/tdn/58.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SPORTS NEWS
+http://echtirak.com:8080/live/tdn/tdn/59.ts
+#EXTINF:-1 group-title="Qatar Bein", AL RAYYAN ALQADEEM
+http://echtirak.com:8080/live/tdn/tdn/104.ts
+#EXTINF:-1 group-title="Qatar Bein", AL RAYAN
+http://echtirak.com:8080/live/tdn/tdn/103.ts
+#EXTINF:-1 group-title="Qatar Bein", AL ARABY 2
+http://echtirak.com:8080/live/tdn/tdn/52842.ts
+#EXTINF:-1 group-title="Qatar Bein", AL ARABY TV
+http://echtirak.com:8080/live/tdn/tdn/102.ts
+#EXTINF:-1 group-title="Qatar Bein", QATAR 2
+http://echtirak.com:8080/live/tdn/tdn/101.ts
+#EXTINF:-1 group-title="Qatar Bein", QATAR
+http://echtirak.com:8080/live/tdn/tdn/100.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SERIES 2
+http://echtirak.com:8080/live/tdn/tdn/93.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN SERIES 1
+http://echtirak.com:8080/live/tdn/tdn/92.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN DRAMA ARABIC
+http://echtirak.com:8080/live/tdn/tdn/94.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN MOVIES FAMILY
+http://echtirak.com:8080/live/tdn/tdn/91.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN MOVIES DRAMA
+http://echtirak.com:8080/live/tdn/tdn/90.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN MOVIES ACTIONS
+http://echtirak.com:8080/live/tdn/tdn/89.ts
+#EXTINF:-1 group-title="Qatar Bein", BEIN MOVIES PREMIERE
+http://echtirak.com:8080/live/tdn/tdn/88.ts
+#EXTINF:-1 group-title="Qatar Bein", ALJAZEERA DOCUMENTS
+http://echtirak.com:8080/live/tdn/tdn/641.ts
 
 
 #EXTINF:-1 group-title="SAUDI", SAUDI 1
@@ -545,5 +779,91 @@ http://echtirak.com:8080/live/tdn/tdn/25.ts
 #EXTINF:-1 group-title="Islam", QURAN KAREEM LIVE
 http://echtirak.com:8080/live/tdn/tdn/24.ts
 
+#EXTINF:-1 group-title="S P O R T ", SSC NEWS
+http://echtirak.com:8080/live/tdn/tdn/44438.ts
+#EXTINF:-1 group-title="S P O R T ", SSC EXTRA 3
+http://echtirak.com:8080/live/tdn/tdn/44461.ts
+#EXTINF:-1 group-title="S P O R T ", SSC EXTRA 2
+http://echtirak.com:8080/live/tdn/tdn/44458.ts
+#EXTINF:-1 group-title="S P O R T ", SSC EXTRA 1
+http://echtirak.com:8080/live/tdn/tdn/44455.ts
+#EXTINF:-1 group-title="S P O R T ", SSC 5
+http://echtirak.com:8080/live/tdn/tdn/44452.ts
+#EXTINF:-1 group-title="S P O R T ", SSC 4
+http://echtirak.com:8080/live/tdn/tdn/44449.ts
+#EXTINF:-1 group-title="S P O R T ", SSC 3
+http://echtirak.com:8080/live/tdn/tdn/44446.ts
+#EXTINF:-1 group-title="S P O R T ", SSC 2
+http://echtirak.com:8080/live/tdn/tdn/44443.ts
+#EXTINF:-1 group-title="S P O R T ", SSC 1 *
+http://echtirak.com:8080/live/tdn/tdn/44440.ts
+#EXTINF:-1 group-title="S P O R T ", SSC 1
+http://echtirak.com:8080/live/tdn/tdn/65353.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 1 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456487.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS XTRA 3 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456501.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS XTRA 2 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456500.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS XTRA 1 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456499.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 2 AFC FHD*
+http://echtirak.com:8080/live/tdn/tdn/456498.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 1 AFC FHD*
+http://echtirak.com:8080/live/tdn/tdn/456497.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS MAX 2 FHD*
+http://echtirak.com:8080/live/tdn/tdn/118.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS MAX 1 FHD*
+http://echtirak.com:8080/live/tdn/tdn/117.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS CANADA
+http://echtirak.com:8080/live/tdn/tdn/9911160.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS USA
+http://echtirak.com:8080/live/tdn/tdn/108.ts
+#EXTINF:-1 group-title="S P O R T ", ALKASS 5 *
+http://echtirak.com:8080/live/tdn/tdn/68153.ts
+#EXTINF:-1 group-title="S P O R T ", ALKASS 4 *
+http://echtirak.com:8080/live/tdn/tdn/68152.ts
+#EXTINF:-1 group-title="S P O R T ", ALKASS 3 *
+http://echtirak.com:8080/live/tdn/tdn/68151.ts
+#EXTINF:-1 group-title="S P O R T ", ALKASS 2 *
+http://echtirak.com:8080/live/tdn/tdn/68150.ts
+#EXTINF:-1 group-title="S P O R T ", ALKASS 1 *
+http://echtirak.com:8080/live/tdn/tdn/68149.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 9 FHD
+http://echtirak.com:8080/live/tdn/tdn/456495.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 9 FHD*
+http://echtirak.com:8080/live/tdn/tdn/54046.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 8 FHD
+http://echtirak.com:8080/live/tdn/tdn/54045.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 8 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456494.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 7 FHD
+http://echtirak.com:8080/live/tdn/tdn/54044.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 7 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456493.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 6 FHD
+http://echtirak.com:8080/live/tdn/tdn/54043.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 6 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456492.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 5 FHD
+http://echtirak.com:8080/live/tdn/tdn/54042.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 5 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456491.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 4 FHD
+http://echtirak.com:8080/live/tdn/tdn/54041.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 4 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456490.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 3 FHD
+http://echtirak.com:8080/live/tdn/tdn/54040.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 3 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456489.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 2 FHD
+http://echtirak.com:8080/live/tdn/tdn/54039.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 2 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456488.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 1 FHD
+http://echtirak.com:8080/live/tdn/tdn/61.ts
+#EXTINF:-1 group-title="S P O R T ", BEIN SPORTS 1 FHD*
+http://echtirak.com:8080/live/tdn/tdn/456487.ts
 
 
