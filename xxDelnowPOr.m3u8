@@ -1,4 +1,151 @@
 #EXTM3U
+#EXTINF:-1 group-title="IRAQ", AL IRAQIYA
+http://echtirak.com:8080/live/tdn/tdn/749.ts
+#EXTINF:-1 group-title="IRAQ", AL IRAQIYA SYRIAC
+http://echtirak.com:8080/live/tdn/tdn/54035.ts
+#EXTINF:-1 group-title="IRAQ", AL MAAREF
+http://echtirak.com:8080/live/tdn/tdn/793.ts
+#EXTINF:-1 group-title="IRAQ", AL ANBAR
+http://echtirak.com:8080/live/tdn/tdn/759.ts
+#EXTINF:-1 group-title="IRAQ", SAMARRA
+http://echtirak.com:8080/live/tdn/tdn/766.ts
+#EXTINF:-1 group-title="IRAQ", SAFA IRAQ
+http://echtirak.com:8080/live/tdn/tdn/771.ts
+#EXTINF:-1 group-title="IRAQ", AL AHD
+http://echtirak.com:8080/live/tdn/tdn/762.ts
+#EXTINF:-1 group-title="IRAQ", AL FORAT
+http://echtirak.com:8080/live/tdn/tdn/761.ts
+#EXTINF:-1 group-title="IRAQ", AL MAWSILIYA
+http://echtirak.com:8080/live/tdn/tdn/764.ts
+#EXTINF:-1 group-title="IRAQ", AL RAFIDAIN
+http://echtirak.com:8080/live/tdn/tdn/768.ts
+#EXTINF:-1 group-title="IRAQ", AL RABIA SPORTS
+http://echtirak.com:8080/live/tdn/tdn/753.ts
+#EXTINF:-1 group-title="IRAQ", AL RABIA ONE
+http://echtirak.com:8080/live/tdn/tdn/752.ts
+#EXTINF:-1 group-title="IRAQ", AFAQ
+http://echtirak.com:8080/live/tdn/tdn/758.ts
+#EXTINF:-1 group-title="IRAQ", ALSUMARIA
+http://echtirak.com:8080/live/tdn/tdn/767.ts
+#EXTINF:-1 group-title="IRAQ", DIJLAH TV
+http://echtirak.com:8080/live/tdn/tdn/781.ts
+#EXTINF:-1 group-title="IRAQ", ALRASHEED
+http://echtirak.com:8080/live/tdn/tdn/763.ts
+#EXTINF:-1 group-title="IRAQ", AL BAGHDADIYA
+http://echtirak.com:8080/live/tdn/tdn/54033.ts
+#EXTINF:-1 group-title="IRAQ", AL AWLA IRAQ TV
+http://echtirak.com:8080/live/tdn/tdn/54032.ts
+#EXTINF:-1 group-title="IRAQ", TURKMENELI TV
+http://echtirak.com:8080/live/tdn/tdn/760.ts
+#EXTINF:-1 group-title="IRAQ", KURDISTAN
+http://echtirak.com:8080/live/tdn/tdn/756.ts
+#EXTINF:-1 group-title="IRAQ", NRT TV
+http://echtirak.com:8080/live/tdn/tdn/757.ts
+#EXTINF:-1 group-title="IRAQ", WAAR TV KURDISTAN
+http://echtirak.com:8080/live/tdn/tdn/9913759.ts
+#EXTINF:-1 group-title="IRAQ", AL HURRA IRAQ
+http://echtirak.com:8080/live/tdn/tdn/54038.ts
+#EXTINF:-1 group-title="IRAQ", HAWLER TV
+http://echtirak.com:8080/live/tdn/tdn/54037.ts
+#EXTINF:-1 group-title="IRAQ", AL ARABIYA IRAQ
+http://echtirak.com:8080/live/tdn/tdn/54036.ts
+#EXTINF:-1 group-title="IRAQ", SPEDA HD
+http://echtirak.com:8080/live/tdn/tdn/68339.ts
+#EXTINF:-1 group-title="IRAQ", ZAGROS HD
+http://echtirak.com:8080/live/tdn/tdn/795.ts
+#EXTINF:-1 group-title="IRAQ", KURDISTAN 24
+http://echtirak.com:8080/live/tdn/tdn/758.ts
+
+#EXTINF:-1 group-title="IRAQ", AL KAWTHAR
+http://echtirak.com:8080/live/tdn/tdn/791.ts
+#EXTINF:-1 group-title="IRAQ", AL ZAHRAA
+http://echtirak.com:8080/live/tdn/tdn/792.ts
+#EXTINF:-1 group-title="IRAQ", AL QAMAR TV
+http://echtirak.com:8080/live/tdn/tdn/9913762.ts
+#EXTINF:-1 group-title="IRAQ", AL SHAAER TV
+http://echtirak.com:8080/live/tdn/tdn/9913763.ts
+#EXTINF:-1 group-title="IRAQ", MARJAEYAT TV PERSIAN
+http://echtirak.com:8080/live/tdn/tdn/9913772.ts
+#EXTINF:-1 group-title="IRAQ", MARJAEYAT TV ENGLISH
+http://echtirak.com:8080/live/tdn/tdn/9913771.ts
+#EXTINF:-1 group-title="IRAQ", MARJAEYAT TV ARABIC
+http://echtirak.com:8080/live/tdn/tdn/9913770.ts
+#EXTINF:-1 group-title="IRAQ", IMAM HUSSEIN TV 6
+http://echtirak.com:8080/live/tdn/tdn/9913769.ts
+#EXTINF:-1 group-title="IRAQ", IMAM HUSSEIN TV 5
+http://echtirak.com:8080/live/tdn/tdn/9913768.ts
+#EXTINF:-1 group-title="IRAQ", IMAM HUSSEIN TV 4
+http://echtirak.com:8080/live/tdn/tdn/9913767.ts
+#EXTINF:-1 group-title="IRAQ", IMAM HUSSEIN TV 3
+http://echtirak.com:8080/live/tdn/tdn/9913766.ts
+#EXTINF:-1 group-title="IRAQ", IMAM HUSSEIN TV 2
+http://echtirak.com:8080/live/tdn/tdn/9913765.ts
+#EXTINF:-1 group-title="IRAQ", IMAM HUSSEIN TV 1
+http://echtirak.com:8080/live/tdn/tdn/9913764.ts
+#EXTINF:-1 group-title="IRAQ", IMAM ALI TV
+http://echtirak.com:8080/live/tdn/tdn/9913775.ts
+#EXTINF:-1 group-title="IRAQ", CH 14 TV
+http://echtirak.com:8080/live/tdn/tdn/9959139.ts
+#EXTINF:-1 group-title="IRAQ", HADI TV 2
+http://echtirak.com:8080/live/tdn/tdn/788.ts
+#EXTINF:-1 group-title="IRAQ", HADI TV
+http://echtirak.com:8080/live/tdn/tdn/790.ts
+#EXTINF:-1 group-title="IRAQ", AHL AL BAYT KIDS
+http://echtirak.com:8080/live/tdn/tdn/9944773.ts
+#EXTINF:-1 group-title="IRAQ", AHL AL BAYT DOCUMENT
+http://echtirak.com:8080/live/tdn/tdn/9914773.ts
+#EXTINF:-1 group-title="IRAQ", AHL AL BAYT QURAN
+http://echtirak.com:8080/live/tdn/tdn/9913773.ts
+#EXTINF:-1 group-title="IRAQ", AHL AL BAYT
+http://echtirak.com:8080/live/tdn/tdn/9910773.ts
+#EXTINF:-1 group-title="IRAQ", AL WILAYA TV
+http://echtirak.com:8080/live/tdn/tdn/9913776.ts
+#EXTINF:-1 group-title="IRAQ", DIWAN
+http://echtirak.com:8080/live/tdn/tdn/769.ts
+#EXTINF:-1 group-title="IRAQ", FADAK TV
+http://echtirak.com:8080/live/tdn/tdn/9913761.ts
+#EXTINF:-1 group-title="IRAQ", SAWT AL ITRA
+http://echtirak.com:8080/live/tdn/tdn/9913760.ts
+#EXTINF:-1 group-title="IRAQ", SAWT ALAQILA
+http://echtirak.com:8080/live/tdn/tdn/772.ts
+#EXTINF:-1 group-title="IRAQ", AL ANWAR 2
+http://echtirak.com:8080/live/tdn/tdn/779.ts
+#EXTINF:-1 group-title="IRAQ", AL ANWAR
+http://echtirak.com:8080/live/tdn/tdn/778.ts
+#EXTINF:-1 group-title="IRAQ", KARBALA DOCUMENT
+http://echtirak.com:8080/live/tdn/tdn/54034.ts
+#EXTINF:-1 group-title="IRAQ", KARBALA
+http://echtirak.com:8080/live/tdn/tdn/774.ts
+#EXTINF:-1 group-title="IRAQ", IFILM
+http://echtirak.com:8080/live/tdn/tdn/777.ts
+#EXTINF:-1 group-title="IRAQ", ISHTAR
+http://echtirak.com:8080/live/tdn/tdn/794.ts
+#EXTINF:-1 group-title="IRAQ", WAAR
+http://echtirak.com:8080/live/tdn/tdn/68335.ts
+#EXTINF:-1 group-title="IRAQ", SPEDA
+http://echtirak.com:8080/live/tdn/tdn/68339.ts
+#EXTINF:-1 group-title="IRAQ", RUDAW
+http://echtirak.com:8080/live/tdn/tdn/797.ts
+#EXTINF:-1 group-title="IRAQ", ANB
+http://echtirak.com:8080/live/tdn/tdn/798.ts
+#EXTINF:-1 group-title="IRAQ", ZAROK TV
+http://echtirak.com:8080/live/tdn/tdn/9913777.ts
+#EXTINF:-1 group-title="IRAQ", ZAGROS
+http://echtirak.com:8080/live/tdn/tdn/795.ts
+#EXTINF:-1 group-title="IRAQ", MUSIC HANEEN
+http://echtirak.com:8080/live/tdn/tdn/784.ts
+#EXTINF:-1 group-title="IRAQ", ALJANOUBIA IRAQ
+http://echtirak.com:8080/live/tdn/tdn/776.ts
+#EXTINF:-1 group-title="IRAQ", ALGHADEER
+http://echtirak.com:8080/live/tdn/tdn/780.ts
+#EXTINF:-1 group-title="IRAQ", TALEEA IRAQ
+http://echtirak.com:8080/live/tdn/tdn/765.ts
+
+
+
+
+
+
 #EXTINF:-1 group-title="ALGERIE", ALGERIA ENTV
 http://echtirak.com:8080/live/tdn/tdn/705.ts
 #EXTINF:-1 group-title="ALGERIE", DJAZAIRIA N1
@@ -142,7 +289,46 @@ http://echtirak.com:8080/live/tdn/tdn/324.ts
 http://echtirak.com:8080/live/tdn/tdn/323.ts
 #EXTINF:-1 group-title="EGYPT", ALHAYAT MUSALSALAT
 http://echtirak.com:8080/live/tdn/tdn/333.ts
+#EXTINF:-1 group-title="EGYPT", ON TIME SPORTS 1
+http://echtirak.com:8080/live/tdn/tdn/235.ts
+#EXTINF:-1 group-title="EGYPT", NILE SPORTS
+http://echtirak.com:8080/live/tdn/tdn/240.ts
+#EXTINF:-1 group-title="EGYPT", ZAMALEK
+http://echtirak.com:8080/live/tdn/tdn/238.ts
+#EXTINF:-1 group-title="EGYPT", ALAHLY
+http://echtirak.com:8080/live/tdn/tdn/239.ts
+#EXTINF:-1 group-title="EGYPT", ON TIME SPORTS 2
+http://echtirak.com:8080/live/tdn/tdn/236.ts
 
+
+#EXTINF:-1 group-title="UAE", ABU DHABI
+http://echtirak.com:8080/live/tdn/tdn/812.ts
+#EXTINF:-1 group-title="UAE", SHARQIYA KALBA
+http://echtirak.com:8080/live/tdn/tdn/52848.ts
+#EXTINF:-1 group-title="UAE", SHARJAH TV
+http://echtirak.com:8080/live/tdn/tdn/816.ts
+#EXTINF:-1 group-title="UAE", SAMA DUBAI
+http://echtirak.com:8080/live/tdn/tdn/810.ts
+#EXTINF:-1 group-title="UAE", NOOR DUBAI
+http://echtirak.com:8080/live/tdn/tdn/820.ts
+#EXTINF:-1 group-title="UAE", KEIF TV
+http://echtirak.com:8080/live/tdn/tdn/817.ts
+#EXTINF:-1 group-title="UAE", ALDHAFRA
+http://echtirak.com:8080/live/tdn/tdn/819.ts
+#EXTINF:-1 group-title="UAE", AL AAN
+http://echtirak.com:8080/live/tdn/tdn/315.ts
+#EXTINF:-1 group-title="UAE", AJMAN
+http://echtirak.com:8080/live/tdn/tdn/818.ts
+#EXTINF:-1 group-title="UAE", DUBAI ZAMAN
+http://echtirak.com:8080/live/tdn/tdn/815.ts
+#EXTINF:-1 group-title="UAE", DUBAI ONE
+http://echtirak.com:8080/live/tdn/tdn/811.ts
+#EXTINF:-1 group-title="UAE", DUBAI
+http://echtirak.com:8080/live/tdn/tdn/809.ts
+#EXTINF:-1 group-title="UAE", AL EMIRATES TV
+http://echtirak.com:8080/live/tdn/tdn/52843.ts
+#EXTINF:-1 group-title="UAE", ABU DHABI DRAMA
+http://echtirak.com:8080/live/tdn/tdn/813.ts
 
 
 
