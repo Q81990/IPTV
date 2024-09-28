@@ -33,6 +33,45 @@ https://tgn.bozztv.com/trn01/gin-ASSADISSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="Morocco",TAMAZIGHT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Morocco", ARRIADIA TNT
+http://echtirak.com:8080/live/tdn/tdn/9959138.ts
+#EXTINF:-1 group-title="Morocco", TAMAZIGHT MAROC
+http://echtirak.com:8080/live/tdn/tdn/701.ts
+#EXTINF:-1 group-title="Morocco", MEDI 1 SAT 1
+http://echtirak.com:8080/live/tdn/tdn/697.ts
+#EXTINF:-1 group-title="Morocco", M24
+http://echtirak.com:8080/live/tdn/tdn/695.ts
+#EXTINF:-1 group-title="Morocco", CHADA TV
+http://echtirak.com:8080/live/tdn/tdn/704.ts
+#EXTINF:-1 group-title="Morocco", CANAL ATLAS
+http://echtirak.com:8080/live/tdn/tdn/44332.ts
+#EXTINF:-1 group-title="Morocco", ASSABIA MAROC
+http://echtirak.com:8080/live/tdn/tdn/703.ts
+#EXTINF:-1 group-title="Morocco", AL THAKAFIA
+http://echtirak.com:8080/live/tdn/tdn/702.ts
+#EXTINF:-1 group-title="Morocco", ALSADISSA
+http://echtirak.com:8080/live/tdn/tdn/700.ts
+#EXTINF:-1 group-title="Morocco", AL OULA AYOUN
+http://echtirak.com:8080/live/tdn/tdn/698.ts
+#EXTINF:-1 group-title="Morocco", AL ONS TV
+http://echtirak.com:8080/live/tdn/tdn/54049.ts
+#EXTINF:-1 group-title="Morocco", TELE MAROC
+http://echtirak.com:8080/live/tdn/tdn/693.ts
+#EXTINF:-1 group-title="Morocco", 2M
+http://echtirak.com:8080/live/tdn/tdn/690.ts
+#EXTINF:-1 group-title="Morocco", 2M INTERNATIONAL
+http://echtirak.com:8080/live/tdn/tdn/691.ts
+#EXTINF:-1 group-title="Morocco", ARRYADIA HD
+http://echtirak.com:8080/live/tdn/tdn/692.ts
+#EXTINF:-1 group-title="Morocco", ALMAGHRIBYA
+http://echtirak.com:8080/live/tdn/tdn/696.ts
+#EXTINF:-1 group-title="Morocco", ALOULA MAROC
+http://echtirak.com:8080/live/tdn/tdn/694.ts
+#EXTINF:-1 group-title="Morocco", ALOULA MAROC TNT
+http://echtirak.com:8080/live/tdn/tdn/9959137.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="Morocco",M24 TV
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="Morocco",TELE MAROC
