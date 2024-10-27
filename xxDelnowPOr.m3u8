@@ -541,12 +541,12 @@ http://echtirak.com:8080/live/tdn/tdn/266.ts
 
 #EXTINF:-1 group-title="LIBYA ", LIBYA german
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
-#EXTINF:-1 group-title="LIBYA ", WTV
-http://echtirak.com:8080/live/tdn/tdn/887.ts
-#EXTINF:-1 group-title="LIBYA ", SALEM LIBYA
-http://echtirak.com:8080/live/tdn/tdn/895.ts
+#EXTINF:-1 group-title="LIBYA ", WTV sbcs
+https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sbc_tv&t=2842ee42f200ba5fa67a2b7a8afba181
+#EXTINF:-1 group-title="LIBYA ", SALEM rot
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="LIBYA ", LIBYA TANASUH
-http://echtirak.com:8080/live/tdn/tdn/890.ts
+https://live.elahmad.net/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="LIBYA ", LIBYA TV
 http://echtirak.com:8080/live/tdn/tdn/889.ts
 #EXTINF:-1 group-title="LIBYA ", LIBYA SPORTS 2
