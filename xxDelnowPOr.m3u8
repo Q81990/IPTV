@@ -539,8 +539,8 @@ http://echtirak.com:8080/live/tdn/tdn/263.ts
 #EXTINF:-1 group-title="TUNISIA", okay
 http://echtirak.com:8080/live/tdn/tdn/266.ts
 
-#EXTINF:-1 group-title="LIBYA ", LIBYA AL AHRAR
-http://echtirak.com:8080/live/tdn/tdn/892.ts
+#EXTINF:-1 group-title="LIBYA ", LIBYA german
+https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
 #EXTINF:-1 group-title="LIBYA ", WTV
 http://echtirak.com:8080/live/tdn/tdn/887.ts
 #EXTINF:-1 group-title="LIBYA ", SALEM LIBYA
