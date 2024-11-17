@@ -398,7 +398,7 @@ http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-dijlah-tv.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Dijlah
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://photos.live-tv-channels.org/tv-logo/iq-al-rasheed-tv-9324-300x225.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Rasheed
-http://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="IRAQ",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
