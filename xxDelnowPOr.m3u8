@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1, SSC EXTRA 3
-http://teledunet.com:8080/live/tdn/tdn/44461.ts
-#EXTINF:-1, SSC EXTRA 2
-http://teledunet.com:8080/live/tdn/tdn/44458.ts
-#EXTINF:-1, SSC EXTRA 1
-http://teledunet.com:8080/live/tdn/tdn/44455.ts
-#EXTINF:-1, SSC 5
-http://teledunet.com:8080/live/tdn/tdn/44452.ts
-#EXTINF:-1, SSC 4
-http://teledunet.com:8080/live/tdn/tdn/44449.ts
-#EXTINF:-1, SSC 3
+#EXTINF:-1, YARMOUK
+http://teledunet.com:8080/live/tdn/tdn/54059.ts
+#EXTINF:-1, AMMAN TV JORDAN
+http://teledunet.com:8080/live/tdn/tdn/804.ts
+#EXTINF:-1, AL MAMLAKA
+http://teledunet.com:8080/live/tdn/tdn/805.ts
+#EXTINF:-1, ROYA
+http://teledunet.com:8080/live/tdn/tdn/799.ts
+#EXTINF:-1, JORDAN SPORTS
+http://teledunet.com:8080/live/tdn/tdn/802.ts
+#EXTINF:-1, JORDAN TV
+http://teledunet.com:8080/live/tdn/tdn/803.ts
+
 http://teledunet.com:8080/live/tdn/tdn/44446.ts
 #EXTINF:-1, SSC 2
 http://teledunet.com:8080/live/tdn/tdn/44443.ts
