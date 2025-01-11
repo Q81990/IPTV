@@ -1,6 +1,23 @@
 #EXTM3U
-#EXTINF:-1, YARMOUK
-http://teledunet.com:8080/live/tdn/tdn/54059.ts
+#EXTINF:-1, ROTANA MUSIC
+http://teledunet.com:8080/live/tdn/tdn/595.ts
+#EXTINF:-1, ROTANA CLIP
+http://teledunet.com:8080/live/tdn/tdn/594.ts
+#EXTINF:-1, ROTANA KHALIGI
+http://teledunet.com:8080/live/tdn/tdn/600.ts
+#EXTINF:-1, ROTANA DRAMA
+http://teledunet.com:8080/live/tdn/tdn/597.ts
+#EXTINF:-1, ROTANA COMEDY
+http://teledunet.com:8080/live/tdn/tdn/601.ts
+#EXTINF:-1, ROTANA CLASSIC
+http://teledunet.com:8080/live/tdn/tdn/598.ts
+#EXTINF:-1, ROTANA CINEMA EGY
+http://teledunet.com:8080/live/tdn/tdn/591.ts
+#EXTINF:-1, ROTANA AFLAM
+http://teledunet.com:8080/live/tdn/tdn/593.ts
+#EXTINF:-1, ROTANA CINEMA KSA
+http://teledunet.com:8080/live/tdn/tdn/592.ts
+
 #EXTINF:-1, AMMAN TV JORDAN
 http://teledunet.com:8080/live/tdn/tdn/804.ts
 #EXTINF:-1, AL MAMLAKA
