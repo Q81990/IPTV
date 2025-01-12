@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, ROTANA MUSIC
 http://teledunet.com:8080/live/tdn/tdn/595.ts
+#EXTINF:-1, ROTANA MUSIC2
+http://teledunet.com:8080/live/tdn/tdn/332.ts
 #EXTINF:-1, ROTANA CLIP
 http://teledunet.com:8080/live/tdn/tdn/594.ts
 #EXTINF:-1, ROTANA KHALIGI
