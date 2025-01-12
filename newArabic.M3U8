@@ -16,6 +16,50 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="Algeria",TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
+
+#EXTINF:-1 group-title="Morocco", AL OULA AYOUN
+http://teledunet.com:8080/live/tdn/tdn/698.ts
+#EXTINF:-1 group-title="Morocco", ALOULA MAROC TNT
+http://teledunet.com:8080/live/tdn/tdn/9959137.ts
+#EXTINF:-1 group-title="Morocco", AL OULA FHD
+http://teledunet.com:8080/live/tdn/tdn/9961442.ts
+#EXTINF:-1 group-title="Morocco", 2M
+http://teledunet.com:8080/live/tdn/tdn/690.ts
+#EXTINF:-1 group-title="Morocco", 2M INTERNATIONAL
+http://teledunet.com:8080/live/tdn/tdn/691.ts
+#EXTINF:-1 group-title="Morocco", TAMAZIGHT MAROC
+http://teledunet.com:8080/live/tdn/tdn/701.ts
+#EXTINF:-1 group-title="Morocco", CANAL ATLAS
+http://teledunet.com:8080/live/tdn/tdn/44332.ts
+#EXTINF:-1 group-title="Morocco", AL THAKAFIA
+http://teledunet.com:8080/live/tdn/tdn/702.ts
+#EXTINF:-1 group-title="Morocco", ALSADISSA
+http://teledunet.com:8080/live/tdn/tdn/700.ts
+
+#EXTINF:-1 group-title="Morocco", AL ONS TV
+http://teledunet.com:8080/live/tdn/tdn/54049.ts
+#EXTINF:-1 group-title="Morocco", MEDI 1 SAT 1
+http://teledunet.com:8080/live/tdn/tdn/697.ts
+#EXTINF:-1 group-title="Morocco", M24
+http://teledunet.com:8080/live/tdn/tdn/695.ts
+#EXTINF:-1 group-title="Morocco", CHADA TV
+http://teledunet.com:8080/live/tdn/tdn/704.ts
+#EXTINF:-1 group-title="Morocco", TELE MAROC
+http://teledunet.com:8080/live/tdn/tdn/693.ts
+
+#EXTINF:-1 group-title="Morocco", ALMAGHRIBYA
+http://teledunet.com:8080/live/tdn/tdn/696.ts
+
+#EXTINF:-1 group-title="Morocco", ASSABIA AFLAM MAROC
+http://teledunet.com:8080/live/tdn/tdn/703.ts
+#EXTINF:-1 group-title="Morocco", ARRIADIA FHD
+http://teledunet.com:8080/live/tdn/tdn/9959138.ts
+#EXTINF:-1 group-title="Morocco", ARRYADIA
+http://teledunet.com:8080/live/tdn/tdn/692.ts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="Morocco",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="Morocco",Al AOULA INTz
