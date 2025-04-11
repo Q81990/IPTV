@@ -6778,6 +6778,44 @@ http://teledunet.com:8080/live/tdn/tdn/21.ts
 #EXTINF:-1 group-title="Tdn ALL", FOX NEWS
 http://teledunet.com:8080/live/tdn/tdn/18.ts
 
+#EXTINF:-1 group-title="VIP Arab", AL OULA
+http://teledunet.com:8080/live/tdn/tdn/9961442.ts
+#EXTINF:-1 group-title="VIP Arab", ALOULA MAROC TNT
+http://teledunet.com:8080/live/tdn/tdn/9959137.ts
+#EXTINF:-1 group-title="VIP Arab", TAMAZIGHT MAROC
+http://teledunet.com:8080/live/tdn/tdn/701.ts
+#EXTINF:-1 group-title="VIP Arab", CANAL ATLAS
+http://teledunet.com:8080/live/tdn/tdn/44332.ts
+#EXTINF:-1 group-title="VIP Arab", AL THAKAFIA
+http://teledunet.com:8080/live/tdn/tdn/702.ts
+#EXTINF:-1 group-title="VIP Arab", ALSADISSA
+http://teledunet.com:8080/live/tdn/tdn/700.ts
+#EXTINF:-1 group-title="VIP Arab", AL OULA AYOUN
+http://teledunet.com:8080/live/tdn/tdn/698.ts
+#EXTINF:-1 group-title="VIP Arab", AL ONS TV
+http://teledunet.com:8080/live/tdn/tdn/54049.ts
+#EXTINF:-1 group-title="VIP Arab", MEDI 1 SAT 1
+http://teledunet.com:8080/live/tdn/tdn/697.ts
+#EXTINF:-1 group-title="VIP Arab", M24
+http://teledunet.com:8080/live/tdn/tdn/695.ts
+#EXTINF:-1 group-title="VIP Arab", CHADA TV
+http://teledunet.com:8080/live/tdn/tdn/704.ts
+#EXTINF:-1 group-title="VIP Arab", TELE MAROC
+http://teledunet.com:8080/live/tdn/tdn/693.ts
+#EXTINF:-1 group-title="VIP Arab", ASSABIA AFLAM MAROC
+http://teledunet.com:8080/live/tdn/tdn/703.ts
+#EXTINF:-1 group-title="VIP Arab", 2M
+http://teledunet.com:8080/live/tdn/tdn/690.ts
+#EXTINF:-1 group-title="VIP Arab", 2M INTERNATIONAL
+http://teledunet.com:8080/live/tdn/tdn/691.ts
+#EXTINF:-1 group-title="VIP Arab", ALMAGHRIBYA
+http://teledunet.com:8080/live/tdn/tdn/696.ts
+#EXTINF:-1 group-title="VIP Arab", ARRIADIA FHD
+http://teledunet.com:8080/live/tdn/tdn/9959138.ts
+#EXTINF:-1 group-title="VIP Arab", ARRYADIA TNT
+http://teledunet.com:8080/live/tdn/tdn/692.ts
+#EXTINF:-1 group-title="VIP Arab", AL MAGHRIBYA
+http://teledunet.com:8080/live/tdn/tdn/9966897.ts
 
 #EXTINF:-1 group-title="VIP Arab", OMAN SPORT
 http://teledunet.com:8080/live/tdn/tdn/863.ts
