@@ -7637,3 +7637,29 @@ https://edge18.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 group-title="Extra Arab", ALJAZEERA
 http://teledunet.com:8080/live/tdn/tdn/1.ts
+#EXTINF:-1 group-title="Extra Arab", ALJAZEERA2
+http://teledunet.com:8080/live/tdn/tdn/2.ts
+#EXTINF:-1 group-title="Extra Arab", ALArabiya
+http://teledunet.com:8080/live/tdn/tdn/5.ts
+#EXTINF:-1 group-title="Extra Arab", Alhadath
+http://teledunet.com:8080/live/tdn/tdn/6.ts
+#EXTINF:-1 group-title="Extra Arab", France24
+http://teledunet.com:8080/live/tdn/tdn/7.ts
+#EXTINF:-1 group-title="Extra Arab", RT
+http://teledunet.com:8080/live/tdn/tdn/8.ts
+#EXTINF:-1 group-title="Extra Arab", Elhewar
+http://teledunet.com:8080/live/tdn/tdn/9.ts
+#EXTINF:-1 group-title="Extra Arab", Mekmleen
+http://teledunet.com:8080/live/tdn/tdn/10.ts
+#EXTINF:-1 group-title="Extra Arab", CNN
+http://teledunet.com:8080/live/tdn/tdn/11.ts
+#EXTINF:-1 group-title="Extra Arab", DW
+http://teledunet.com:8080/live/tdn/tdn/12.ts
+#EXTINF:-1 group-title="Extra Arab", ALShrraq
+http://teledunet.com:8080/live/tdn/tdn/13.ts
+#EXTINF:-1 group-title="Extra Arab", Al3arabi1
+http://teledunet.com:8080/live/tdn/tdn/14.ts
+#EXTINF:-1 group-title="Extra Arab", BBC
+http://teledunet.com:8080/live/tdn/tdn/15.ts
+#EXTINF:-1 group-title="Extra Arab", ELghad
+http://teledunet.com:8080/live/tdn/tdn/19.ts
