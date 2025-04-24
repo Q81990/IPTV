@@ -7629,3 +7629,11 @@ http://teledunet.com:8080/live/tdn/tdn/9964506.ts
 http://teledunet.com:8080/live/tdn/tdn/9960382.ts
 #EXTINF:-1 group-title="VIP Arab", ALJAZEERA NEWS
 http://teledunet.com:8080/live/tdn/tdn/9964502.ts
+
+
+#EXTINF:-1 group-title="Extra Arab", Chada1
+https://edge18.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 group-title="Extra Arab", Chada2
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 group-title="Extra Arab", ALJAZEERA
+http://teledunet.com:8080/live/tdn/tdn/1.ts
