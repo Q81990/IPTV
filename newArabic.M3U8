@@ -7662,13 +7662,17 @@ http://teledunet.com:8080/live/tdn/tdn/15.ts
 http://teledunet.com:8080/live/tdn/tdn/19.ts
 #EXTINF:-1 group-title="Extra Arab", Alhurra
 http://teledunet.com:8080/live/tdn/tdn/23.ts
+#EXTINF:-1 group-title="Extra Arab", CGTN
+http://teledunet.com:8080/live/tdn/tdn/52840.ts
 #EXTINF:-1 group-title="Extra Arab", SkyNews
 http://teledunet.com:8080/live/tdn/tdn/120.ts
 #EXTINF:-1 group-title="Extra Arab", AbuDhabi Sport
 http://teledunet.com:8080/live/tdn/tdn/256.ts
 #EXTINF:-1 group-title="Extra Arab", Maser Qahra news
 http://teledunet.com:8080/live/tdn/tdn/363.ts
-#EXTINF:-1 group-title="Extra Arab", Maser Qahra news
-http://teledunet.com:8080/live/tdn/tdn/363.ts
+#EXTINF:-1 group-title="Extra Arab", CNBC
+http://teledunet.com:8080/live/tdn/tdn/20.ts
+#EXTINF:-1 group-title="Extra Arab", I24 news
+http://teledunet.com:8080/live/tdn/tdn/54060.ts
 #EXTINF:-1 group-title="Extra Arab", AL Manar
 https://edge.fastpublish.me/live/index.m3u8
