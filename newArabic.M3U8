@@ -2556,7 +2556,7 @@ http://teledunet.com:8080/live/tdn/tdn/747.ts
 http://teledunet.com:8080/live/tdn/tdn/748.ts
 #EXTINF:-1 group-title="TunisOLD", CHANNEL 749
 http://teledunet.com:8080/live/tdn/tdn/749.ts
-#EXTINF:-1 group-title="TunisOLD", CHANNEL 750
+#EXTINF:-1 https://static.wikia.nocookie.net/logopedia/images/1/18/Al_Iraqiya_Logo.png group-title="TunisOLD", CHANNEL 750
 http://teledunet.com:8080/live/tdn/tdn/750.ts
 #EXTINF:-1 group-title="TunisOLD", CHANNEL 751
 http://teledunet.com:8080/live/tdn/tdn/751.ts
@@ -7632,6 +7632,15 @@ http://teledunet.com:8080/live/tdn/tdn/9964506.ts
 http://teledunet.com:8080/live/tdn/tdn/9960382.ts
 #EXTINF:-1 group-title="VIP Arab", ALJAZEERA NEWS
 http://teledunet.com:8080/live/tdn/tdn/9964502.ts
+
+#EXTINF:-1 group-title="VIP Arab", EKHBARIA SYR NEW
+http://teledunet.com:8080/live/tdn/tdn/19959434.m3u8
+#EXTINF:-1 group-title="VIP Arab",  SYR 
+http://teledunet.com:8080/live/tdn/tdn/737.m3u8
+#EXTINF:-1 group-title="VIP Arab",  SYR Drama
+http://teledunet.com:8080/live/tdn/tdn/736.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Al_Iraqiya_Logo.png" group-title="VIP Arab", Iraqia
+http://teledunet.com:8080/live/tdn/tdn/750.m3u8
 
 
 #EXTINF:-1 group-title="Extra Arab", AbuDhabi
