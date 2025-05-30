@@ -39,7 +39,7 @@ http://teledunet.com:8080/live/tdn/tdn/700.ts
 #EXTINF:-1 group-title="Morocco", AL ONS TV
 http://teledunet.com:8080/live/tdn/tdn/54049.ts
 #EXTINF:-1 group-title="Morocco", MEDI 1 SAT 1
-http://teledunet.com:8080/live/tdn/tdn/697.ts
+https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 group-title="Morocco", M24
 http://teledunet.com:8080/live/tdn/tdn/695.ts
 #EXTINF:-1 group-title="Morocco", CHADA TV
@@ -215,10 +215,25 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="Syria",MTV LBN
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Syria",Arabica
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Syria",Manar
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Syria",Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Syria",Iman
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTOoDy1.png" group-title="Syria",FutureTV
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="Syria",TeleLBN
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="Syria",ONE TV LBN
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" group-title="Syria",NBN TV LBN
 http://62.182.82.104/NBN/tracks-v1a1/mono.m3u8token=test
@@ -273,11 +288,11 @@ https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T0Rc9mJ/saudi2.png" group-title="GCC",SAUDI CH 2
 https://edge.taghtia.com/sa/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mtqZsZ4/saudi3.png" group-title="GCC",SAUDI CH 3
-https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mtqZsZ4/saudi3.png" group-title="GCC",SAUDI News
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mtqZsZ4/saudi3.png" group-title="GCC",Ajyal
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mtqZsZ4/saudi3.png" group-title="GCC",Sadia KSA
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png" group-title="Jordan",JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
@@ -354,8 +369,19 @@ https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="GCC",KuwaitSC
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="GCC",Russia 1
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="GCC",Russia 2
+https://streaming.skynetconnect.online/live/210.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="GCC",Russia 12
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="GCC",Daghstan
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="GCC",OMAN 1
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="GCC",OMAN MUNASHER
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="GCC",OMAN CULTURE
