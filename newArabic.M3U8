@@ -6777,6 +6777,10 @@ http://teledunet.com:8080/live/tdn/tdn/21.ts
 #EXTINF:-1 group-title="Tdn ALL", FOX NEWS
 http://teledunet.com:8080/live/tdn/tdn/18.ts
 
+
+#EXTINF:-1 group-title="VIP Arab", LANA TV
+http://teledunet.com:8080/live/tdn/tdn/9964519.m3u8
+
 #EXTINF:-1 group-title="VIP Arab", AL OULA
 http://teledunet.com:8080/live/tdn/tdn/9961442.ts
 #EXTINF:-1 group-title="VIP Arab", ALOULA MAROC TNT
