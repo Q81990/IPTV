@@ -213,3 +213,45 @@ https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFb5JL3/qaftv.png" group-title="UAE",QAF
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 
+#EXTINF:-1 group-title="newVIParabic", BEIN TRAVEL
+http://teledunet.com:8080/live/tdn/tdn/52193.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN GOURMET
+http://teledunet.com:8080/live/tdn/tdn/99.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN FATAFEAT
+http://teledunet.com:8080/live/tdn/tdn/98.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN FOX LIFE
+http://teledunet.com:8080/live/tdn/tdn/96.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN FOX MOVIES
+http://teledunet.com:8080/live/tdn/tdn/95.ts
+#EXTINF:-1 group-title="newVIParabic",  AL RAYYAN ALQADEEM
+http://teledunet.com:8080/live/tdn/tdn/104.ts
+#EXTINF:-1 group-title="newVIParabic",  AL RAYAN
+http://teledunet.com:8080/live/tdn/tdn/103.ts
+#EXTINF:-1 group-title="newVIParabic",  AL ARABY 2
+http://teledunet.com:8080/live/tdn/tdn/52842.ts
+#EXTINF:-1 group-title="newVIParabic",  AL ARABY TV
+http://teledunet.com:8080/live/tdn/tdn/102.ts
+#EXTINF:-1 group-title="newVIParabic",  QATAR 2
+http://teledunet.com:8080/live/tdn/tdn/101.ts
+#EXTINF:-1 group-title="newVIParabic",  QATAR
+http://teledunet.com:8080/live/tdn/tdn/100.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN SERIES 2
+http://teledunet.com:8080/live/tdn/tdn/93.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN SERIES 1
+http://teledunet.com:8080/live/tdn/tdn/92.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN DRAMA ARABIC
+http://teledunet.com:8080/live/tdn/tdn/94.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN MOVIES FAMILY
+http://teledunet.com:8080/live/tdn/tdn/91.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN MOVIES DRAMA
+http://teledunet.com:8080/live/tdn/tdn/90.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN MOVIES ACTIONS
+http://teledunet.com:8080/live/tdn/tdn/89.ts
+#EXTINF:-1 group-title="newVIParabic",  BEIN MOVIES PREMIERE
+http://teledunet.com:8080/live/tdn/tdn/88.ts
+#EXTINF:-1 group-title="newVIParabic",  ALJAZEERA DOCUMENTS
+http://teledunet.com:8080/live/tdn/tdn/641.ts
+#EXTINF:-1 group-title="newVIParabic",  AL JAZEERA
+http://teledunet.com:8080/live/tdn/tdn/105.ts
+
+
